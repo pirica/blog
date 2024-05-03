@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-05-03T05:35:34.663Z",
+                    "validFrom": "2024-05-03T06:05:25.239Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-03T07:35:34.663Z"
+            "cacheExpire": "2024-05-03T08:05:25.239Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-05-03T05:35:34.663Z",
+                    "validFrom": "2024-05-03T06:05:25.239Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -130,24 +130,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-03T07:35:34.663Z"
+            "cacheExpire": "2024-05-03T08:05:25.239Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-05-03T05:35:34.663Z",
+                    "validFrom": "2024-05-03T06:05:25.239Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2024-05-03T07:35:34.663Z"
+            "cacheExpire": "2024-05-03T08:05:25.239Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-05-03T05:35:34.663Z",
+                    "validFrom": "2024-05-03T06:05:25.239Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -157,12 +157,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-03T07:35:34.663Z"
+            "cacheExpire": "2024-05-03T08:05:25.239Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-05-03T05:35:34.663Z",
+                    "validFrom": "2024-05-03T06:05:25.239Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -172,12 +172,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-03T07:35:34.663Z"
+            "cacheExpire": "2024-05-03T08:05:25.239Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-05-03T05:35:34.663Z",
+                    "validFrom": "2024-05-03T06:05:25.239Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.LobbySeason29",
@@ -268,11 +268,6 @@
                             "eventType": "EventFlag.Event_DelMar_Season01_Rank",
                             "activeUntil": "2024-06-28T13:00:00.000Z",
                             "activeSince": "2024-04-09T13:00:00.000Z"
-                        },
-                        {
-                            "eventType": "EventFlag.Event_S29_ColdDay",
-                            "activeUntil": "2024-05-03T06:00:00.000Z",
-                            "activeSince": "2024-04-12T13:00:00.000Z"
                         },
                         {
                             "eventType": "EventFlag.Event_SparksS03",
@@ -451,14 +446,6 @@
                                 "eventStart": "2024-04-09T13:00:00Z",
                                 "eventEnd": "2024-06-28T13:00:00Z",
                                 "eventType": "EventFlag.Event_DelMar_Season01_Rank"
-                            },
-                            {
-                                "instanceId": "61gmov4shuuht823q9sn1hme3k[2]0",
-                                "devName": "Event_S29_ColdDay",
-                                "eventName": "CalendarEvent_S29_ColdDay",
-                                "eventStart": "2024-04-12T13:00:00Z",
-                                "eventEnd": "2024-05-03T06:00:00Z",
-                                "eventType": "EventFlag.Event_S29_ColdDay"
                             },
                             {
                                 "instanceId": "7m5rjfa3pbadkfdc4e2jelup77[2]0",
@@ -501,7 +488,7 @@
                     }
                 },
                 {
-                    "validFrom": "2024-05-03T06:00:00.000Z",
+                    "validFrom": "2024-05-03T08:00:00.000Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.LobbySeason29",
@@ -717,6 +704,11 @@
                             "eventType": "PilgrimSong.countingstars",
                             "activeUntil": "2024-05-04T00:00:00.000Z",
                             "activeSince": "2024-05-03T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "PilgrimSong.cantinaband",
+                            "activeUntil": "2024-05-04T00:00:00.000Z",
+                            "activeSince": "2024-05-03T08:00:00.000Z"
                         }
                     ],
                     "state": {
@@ -812,9 +804,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-03T07:35:34.663Z"
+            "cacheExpire": "2024-05-03T08:05:25.239Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-05-03T05:56:20.213Z"
+    "currentTime": "2024-05-03T06:22:05.285Z"
 }
