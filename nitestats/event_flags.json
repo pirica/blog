@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-05-21T13:35:25.236Z",
+                    "validFrom": "2024-05-21T13:58:56.451Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-21T15:35:25.236Z"
+            "cacheExpire": "2024-05-21T15:58:56.451Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-05-21T13:35:25.236Z",
+                    "validFrom": "2024-05-21T13:58:56.451Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -128,14 +128,70 @@
                             }
                         }
                     }
+                },
+                {
+                    "validFrom": "2024-05-21T16:00:00.000Z",
+                    "activeEvents": [],
+                    "state": {
+                        "region": {
+                            "NAE": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "NAW": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "NAC": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "EU": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "OCE": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "ME": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "ASIA": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "BR": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            }
+                        }
+                    }
                 }
             ],
-            "cacheExpire": "2024-05-21T15:35:25.236Z"
+            "cacheExpire": "2024-05-21T15:58:56.451Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-05-21T13:35:25.236Z",
+                    "validFrom": "2024-05-21T13:58:56.451Z",
                     "activeEvents": [],
                     "state": {
                         "k": [
@@ -148,12 +204,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-21T15:35:25.236Z"
+            "cacheExpire": "2024-05-21T15:58:56.451Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-05-21T13:35:25.236Z",
+                    "validFrom": "2024-05-21T13:58:56.451Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -163,12 +219,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-21T15:35:25.236Z"
+            "cacheExpire": "2024-05-21T15:58:56.451Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-05-21T13:35:25.236Z",
+                    "validFrom": "2024-05-21T13:58:56.451Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -178,12 +234,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-21T15:35:25.236Z"
+            "cacheExpire": "2024-05-21T15:58:56.451Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-05-21T13:35:25.236Z",
+                    "validFrom": "2024-05-21T13:58:56.451Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.LobbySeason29",
@@ -331,11 +387,6 @@
                             "activeSince": "2024-05-18T00:00:00.000Z"
                         },
                         {
-                            "eventType": "PilgrimSong.thediner",
-                            "activeUntil": "2024-05-24T00:00:00.000Z",
-                            "activeSince": "2024-05-18T00:00:00.000Z"
-                        },
-                        {
                             "eventType": "PilgrimSong.stressedout",
                             "activeUntil": "2024-05-22T00:00:00.000Z",
                             "activeSince": "2024-05-21T00:00:00.000Z"
@@ -424,6 +475,11 @@
                             "eventType": "PilgrimSong.sandstorm",
                             "activeUntil": "2024-05-22T00:00:00.000Z",
                             "activeSince": "2024-05-21T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "PilgrimSong.thediner",
+                            "activeUntil": "2024-05-24T00:00:00.000Z",
+                            "activeSince": "2024-05-21T01:00:00.000Z"
                         }
                     ],
                     "state": {
@@ -551,9 +607,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-05-21T15:35:25.236Z"
+            "cacheExpire": "2024-05-21T15:58:56.451Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-05-21T13:56:50.250Z"
+    "currentTime": "2024-05-21T14:17:25.246Z"
 }
