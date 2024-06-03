@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-06-03T05:17:57.373Z",
+                    "validFrom": "2024-06-03T05:30:08.876Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-03T07:17:57.373Z"
+            "cacheExpire": "2024-06-03T07:30:08.876Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-06-03T05:17:57.373Z",
+                    "validFrom": "2024-06-03T05:30:08.876Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -130,24 +130,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-03T07:17:57.373Z"
+            "cacheExpire": "2024-06-03T07:30:08.876Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-06-03T05:17:57.373Z",
+                    "validFrom": "2024-06-03T05:30:08.876Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2024-06-03T07:17:57.373Z"
+            "cacheExpire": "2024-06-03T07:30:08.876Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-06-03T05:17:57.373Z",
+                    "validFrom": "2024-06-03T05:30:08.876Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -157,12 +157,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-03T07:17:57.373Z"
+            "cacheExpire": "2024-06-03T07:30:08.876Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-06-03T05:17:57.373Z",
+                    "validFrom": "2024-06-03T05:30:08.876Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -172,12 +172,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-03T07:17:57.373Z"
+            "cacheExpire": "2024-06-03T07:30:08.876Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-06-03T05:17:57.373Z",
+                    "validFrom": "2024-06-03T05:30:08.876Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.LobbyStW.Adventure",
@@ -501,9 +501,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-03T07:17:57.373Z"
+            "cacheExpire": "2024-06-03T07:30:08.876Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-06-03T05:36:31.162Z"
+    "currentTime": "2024-06-03T05:47:45.270Z"
 }
