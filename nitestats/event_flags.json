@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-06-23T16:29:20.608Z",
+                    "validFrom": "2024-06-23T16:29:27.848Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-23T18:29:20.608Z"
+            "cacheExpire": "2024-06-23T18:29:27.848Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-06-23T16:29:20.608Z",
+                    "validFrom": "2024-06-23T16:29:27.848Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -74,24 +74,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-23T18:29:20.608Z"
+            "cacheExpire": "2024-06-23T18:29:27.848Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-06-23T16:29:20.608Z",
+                    "validFrom": "2024-06-23T16:29:27.848Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2024-06-23T18:29:20.608Z"
+            "cacheExpire": "2024-06-23T18:29:27.848Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-06-23T16:29:20.608Z",
+                    "validFrom": "2024-06-23T16:29:27.848Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -101,12 +101,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-23T18:29:20.608Z"
+            "cacheExpire": "2024-06-23T18:29:27.848Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-06-23T16:29:20.608Z",
+                    "validFrom": "2024-06-23T16:29:27.848Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -116,12 +116,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-23T18:29:20.608Z"
+            "cacheExpire": "2024-06-23T18:29:27.848Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-06-23T16:29:20.608Z",
+                    "validFrom": "2024-06-23T16:29:27.848Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -593,9 +593,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-23T18:29:20.608Z"
+            "cacheExpire": "2024-06-23T18:29:27.848Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-06-23T16:48:01.334Z"
+    "currentTime": "2024-06-23T16:58:40.211Z"
 }
