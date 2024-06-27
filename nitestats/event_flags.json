@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-06-27T19:11:31.547Z",
+                    "validFrom": "2024-06-27T19:35:25.888Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-27T21:11:31.547Z"
+            "cacheExpire": "2024-06-27T21:35:25.888Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-06-27T19:11:31.547Z",
+                    "validFrom": "2024-06-27T19:35:25.888Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -74,24 +74,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-27T21:11:31.547Z"
+            "cacheExpire": "2024-06-27T21:35:25.888Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-06-27T19:11:31.547Z",
+                    "validFrom": "2024-06-27T19:35:25.888Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2024-06-27T21:11:31.547Z"
+            "cacheExpire": "2024-06-27T21:35:25.888Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-06-27T19:11:31.547Z",
+                    "validFrom": "2024-06-27T19:35:25.888Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -101,12 +101,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-27T21:11:31.547Z"
+            "cacheExpire": "2024-06-27T21:35:25.888Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-06-27T19:11:31.547Z",
+                    "validFrom": "2024-06-27T19:35:25.888Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -116,12 +116,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-27T21:11:31.547Z"
+            "cacheExpire": "2024-06-27T21:35:25.888Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-06-27T19:11:31.547Z",
+                    "validFrom": "2024-06-27T19:35:25.888Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -280,7 +280,7 @@
                         },
                         {
                             "eventType": "EventFlag.Event_Juno_FTUE_BB",
-                            "activeUntil": "2025-08-21T08:01:00.000Z",
+                            "activeUntil": "2024-08-16T06:00:00.000Z",
                             "activeSince": "2024-06-22T05:01:00.000Z"
                         },
                         {
@@ -549,7 +549,7 @@
                                 "devName": "Juno_FTUE_BB",
                                 "eventName": "CalendarEvent_Juno_FTUE_BB",
                                 "eventStart": "2024-06-22T05:01:00Z",
-                                "eventEnd": "2025-08-21T08:01:00Z",
+                                "eventEnd": "2024-08-16T06:00:00Z",
                                 "eventType": "EventFlag.Event_Juno_FTUE_BB"
                             },
                             {
@@ -593,9 +593,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-06-27T21:11:31.547Z"
+            "cacheExpire": "2024-06-27T21:35:25.888Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-06-27T19:40:01.393Z"
+    "currentTime": "2024-06-27T19:50:35.226Z"
 }
