@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-10-01T03:36:13.207Z",
+                    "validFrom": "2024-10-01T04:06:28.897Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-01T05:36:13.207Z"
+            "cacheExpire": "2024-10-01T06:06:28.897Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-10-01T03:36:13.207Z",
+                    "validFrom": "2024-10-01T04:06:28.897Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -168,24 +168,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-01T05:36:13.207Z"
+            "cacheExpire": "2024-10-01T06:06:28.897Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-10-01T03:36:13.207Z",
+                    "validFrom": "2024-10-01T04:06:28.897Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2024-10-01T05:36:13.207Z"
+            "cacheExpire": "2024-10-01T06:06:28.897Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-10-01T03:36:13.207Z",
+                    "validFrom": "2024-10-01T04:06:28.897Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -195,12 +195,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-01T05:36:13.207Z"
+            "cacheExpire": "2024-10-01T06:06:28.897Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-10-01T03:36:13.207Z",
+                    "validFrom": "2024-10-01T04:06:28.897Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -210,12 +210,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-01T05:36:13.207Z"
+            "cacheExpire": "2024-10-01T06:06:28.897Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-10-01T03:36:13.207Z",
+                    "validFrom": "2024-10-01T04:06:28.897Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -411,11 +411,6 @@
                             "eventType": "EventFlag.Season11.Fortnitemares.Quests.Phase2",
                             "activeUntil": "2024-10-17T00:00:00.000Z",
                             "activeSince": "2024-09-19T00:00:00.000Z"
-                        },
-                        {
-                            "eventType": "BirthdayBus7th",
-                            "activeUntil": "2024-10-01T04:00:00.000Z",
-                            "activeSince": "2024-09-24T04:00:00.000Z"
                         },
                         {
                             "eventType": "EventFlag.Event_S31_Birthday",
@@ -748,7 +743,7 @@
                     }
                 },
                 {
-                    "validFrom": "2024-10-01T04:00:00.000Z",
+                    "validFrom": "2024-10-01T06:00:00.000Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -944,11 +939,6 @@
                             "eventType": "EventFlag.Season11.Fortnitemares.Quests.Phase2",
                             "activeUntil": "2024-10-17T00:00:00.000Z",
                             "activeSince": "2024-09-19T00:00:00.000Z"
-                        },
-                        {
-                            "eventType": "EventFlag.Event_S31_Birthday",
-                            "activeUntil": "2024-10-01T06:00:00.000Z",
-                            "activeSince": "2024-09-24T13:00:00.000Z"
                         },
                         {
                             "eventType": "EventFlag.Event_S31_RankedScythe",
@@ -1220,14 +1210,6 @@
                                 "eventType": "EventFlag.Event_S31_ToadJam"
                             },
                             {
-                                "instanceId": "1afvqbbko8rrpia6high7gakd9[2]0",
-                                "devName": "Event_S31_Birthday",
-                                "eventName": "CalendarEvent_S31_Birthday",
-                                "eventStart": "2024-09-24T13:00:00Z",
-                                "eventEnd": "2024-10-01T06:00:00Z",
-                                "eventType": "EventFlag.Event_S31_Birthday"
-                            },
-                            {
                                 "instanceId": "67nj2k1dcjcksc362m2rhbkmeh[2]0",
                                 "devName": "Event_S31_RankedScythe",
                                 "eventName": "CalendarEvent_S31_RankedScythe",
@@ -1276,9 +1258,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-01T05:36:13.207Z"
+            "cacheExpire": "2024-10-01T06:06:28.897Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-10-01T03:55:45.269Z"
+    "currentTime": "2024-10-01T04:23:50.267Z"
 }
