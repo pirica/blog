@@ -1,7 +1,7 @@
 {
     "refreshIntervalHrs": 1,
     "dailyPurchaseHrs": 24,
-    "expiration": "2024-10-04T02:00:00.000Z",
+    "expiration": "2024-10-04T03:00:00.000Z",
     "storefronts": [
         {
             "name": "WinterQuest2019",
@@ -31474,124 +31474,6 @@
                     ],
                     "additionalGrants": [],
                     "sortPriority": -231,
-                    "catalogGroupPriority": 0
-                },
-                {
-                    "devName": "[VIRTUAL]1 x 'Bow Blades for 500 MtxCurrency",
-                    "offerId": "v2:/914265dd01e1834fd1c36bb4c34fd3a6ef12f7b7d3510372d7580571187c266e",
-                    "fulfillmentIds": [],
-                    "dailyLimit": -1,
-                    "weeklyLimit": -1,
-                    "monthlyLimit": -1,
-                    "categories": [],
-                    "prices": [
-                        {
-                            "currencyType": "MtxCurrency",
-                            "currencySubType": "",
-                            "regularPrice": 500,
-                            "dynamicRegularPrice": 500,
-                            "finalPrice": 500,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
-                            "basePrice": 500
-                        }
-                    ],
-                    "meta": {
-                        "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_835_SpyMaleFNCS1H.DAv2_Pickaxe_ID_835_SpyMaleFNCS1H",
-                        "offertag": "promodesc52",
-                        "LayoutId": "PickaxeShop2.98",
-                        "TileSize": "Size_1_x_1",
-                        "AnalyticOfferGroupId": "PickaxeShop2",
-                        "templateId": "AthenaPickaxe:pickaxe_id_835_spymalefncs1h",
-                        "webURL": "/item-shop/pickaxes/bow-blades-eb5f3608",
-                        "color1": "#6e9600",
-                        "color2": "#2e6600",
-                        "color3": "#042600",
-                        "textBackgroundColor": "#042600",
-                        "inDate": "2024-10-04T00:00:00.000Z",
-                        "outDate": "2024-10-05T23:59:59.999Z",
-                        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_835_SpyMaleFNCS1H.DA_Featured_Pickaxe_ID_835_SpyMaleFNCS1H"
-                    },
-                    "matchFilter": "",
-                    "filterWeight": 0.0,
-                    "appStoreId": [],
-                    "requirements": [
-                        {
-                            "requirementType": "DenyOnItemOwnership",
-                            "requiredId": "AthenaPickaxe:pickaxe_id_835_spymalefncs1h",
-                            "minQuantity": 1
-                        }
-                    ],
-                    "offerType": "StaticPrice",
-                    "giftInfo": {
-                        "bIsEnabled": true,
-                        "forcedGiftBoxTemplateId": "",
-                        "purchaseRequirements": [],
-                        "giftRecordIds": []
-                    },
-                    "refundable": true,
-                    "metaInfo": [
-                        {
-                            "key": "NewDisplayAssetPath",
-                            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_835_SpyMaleFNCS1H.DAv2_Pickaxe_ID_835_SpyMaleFNCS1H"
-                        },
-                        {
-                            "key": "offertag",
-                            "value": "promodesc52"
-                        },
-                        {
-                            "key": "LayoutId",
-                            "value": "PickaxeShop2.98"
-                        },
-                        {
-                            "key": "TileSize",
-                            "value": "Size_1_x_1"
-                        },
-                        {
-                            "key": "AnalyticOfferGroupId",
-                            "value": "PickaxeShop2"
-                        },
-                        {
-                            "key": "templateId",
-                            "value": "AthenaPickaxe:pickaxe_id_835_spymalefncs1h"
-                        },
-                        {
-                            "key": "webURL",
-                            "value": "/item-shop/pickaxes/bow-blades-eb5f3608"
-                        },
-                        {
-                            "key": "color1",
-                            "value": "#6e9600"
-                        },
-                        {
-                            "key": "color2",
-                            "value": "#2e6600"
-                        },
-                        {
-                            "key": "color3",
-                            "value": "#042600"
-                        },
-                        {
-                            "key": "textBackgroundColor",
-                            "value": "#042600"
-                        },
-                        {
-                            "key": "inDate",
-                            "value": "2024-10-04T00:00:00.000Z"
-                        },
-                        {
-                            "key": "outDate",
-                            "value": "2024-10-05T23:59:59.999Z"
-                        }
-                    ],
-                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_835_SpyMaleFNCS1H.DA_Featured_Pickaxe_ID_835_SpyMaleFNCS1H",
-                    "itemGrants": [
-                        {
-                            "templateId": "AthenaPickaxe:pickaxe_id_835_spymalefncs1h",
-                            "quantity": 1
-                        }
-                    ],
-                    "additionalGrants": [],
-                    "sortPriority": -2,
                     "catalogGroupPriority": 0
                 },
                 {
