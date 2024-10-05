@@ -1,7 +1,7 @@
 {
     "refreshIntervalHrs": 1,
     "dailyPurchaseHrs": 24,
-    "expiration": "2024-10-05T02:00:00.000Z",
+    "expiration": "2024-10-05T03:00:00.000Z",
     "storefronts": [
         {
             "name": "WinterQuest2019",
@@ -31082,102 +31082,6 @@
                     "catalogGroupPriority": 0
                 },
                 {
-                    "devName": "[VIRTUAL]1 x Feel Good Inc for 500 MtxCurrency",
-                    "offerId": "v2:/c89aea3670a3054bd205d72c23d95e1a8028c00643d7012a5e1c0c9ea0f0301b",
-                    "fulfillmentIds": [],
-                    "dailyLimit": -1,
-                    "weeklyLimit": -1,
-                    "monthlyLimit": -1,
-                    "categories": [],
-                    "prices": [
-                        {
-                            "currencyType": "MtxCurrency",
-                            "currencySubType": "",
-                            "regularPrice": 500,
-                            "dynamicRegularPrice": 500,
-                            "finalPrice": 500,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
-                            "basePrice": 500
-                        }
-                    ],
-                    "meta": {
-                        "NewDisplayAssetPath": "sid_placeholder_31",
-                        "offertag": "sparksjamloop",
-                        "LayoutId": "JamTracks1005.97",
-                        "TileSize": "Size_1_x_1",
-                        "AnalyticOfferGroupId": "JamTracks1005",
-                        "templateId": "SparksSong:sid_placeholder_31",
-                        "webURL": "/item-shop/jam-tracks/feel-good-inc-ce56cd3b",
-                        "inDate": "2024-08-16T00:00:00.000Z",
-                        "outDate": "2024-11-01T23:59:59.999Z"
-                    },
-                    "matchFilter": "",
-                    "filterWeight": 0.0,
-                    "appStoreId": [],
-                    "requirements": [
-                        {
-                            "requirementType": "DenyOnItemOwnership",
-                            "requiredId": "SparksSong:sid_placeholder_31",
-                            "minQuantity": 1
-                        }
-                    ],
-                    "offerType": "StaticPrice",
-                    "giftInfo": {
-                        "bIsEnabled": true,
-                        "forcedGiftBoxTemplateId": "",
-                        "purchaseRequirements": [],
-                        "giftRecordIds": []
-                    },
-                    "refundable": true,
-                    "metaInfo": [
-                        {
-                            "key": "NewDisplayAssetPath",
-                            "value": "sid_placeholder_31"
-                        },
-                        {
-                            "key": "offertag",
-                            "value": "sparksjamloop"
-                        },
-                        {
-                            "key": "LayoutId",
-                            "value": "JamTracks1005.97"
-                        },
-                        {
-                            "key": "TileSize",
-                            "value": "Size_1_x_1"
-                        },
-                        {
-                            "key": "AnalyticOfferGroupId",
-                            "value": "JamTracks1005"
-                        },
-                        {
-                            "key": "templateId",
-                            "value": "SparksSong:sid_placeholder_31"
-                        },
-                        {
-                            "key": "webURL",
-                            "value": "/item-shop/jam-tracks/feel-good-inc-ce56cd3b"
-                        },
-                        {
-                            "key": "inDate",
-                            "value": "2024-08-16T00:00:00.000Z"
-                        },
-                        {
-                            "key": "outDate",
-                            "value": "2024-11-01T23:59:59.999Z"
-                        }
-                    ],
-                    "itemGrants": [
-                        {
-                            "templateId": "SparksSong:sid_placeholder_31",
-                            "quantity": 1
-                        }
-                    ],
-                    "additionalGrants": [],
-                    "sortPriority": -78,
-                    "catalogGroupPriority": 0
-                },
-                {
                     "devName": "[VIRTUAL]1 x Big Poppa for 500 MtxCurrency",
                     "offerId": "v2:/a7175a42ae139d778c2d64af307308a03e4dec1693e384314bc7f9fdd9744fa0",
                     "fulfillmentIds": [],
@@ -31271,6 +31175,102 @@
                     ],
                     "additionalGrants": [],
                     "sortPriority": -32,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x Feel Good Inc for 500 MtxCurrency",
+                    "offerId": "v2:/c89aea3670a3054bd205d72c23d95e1a8028c00643d7012a5e1c0c9ea0f0301b",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 500,
+                            "dynamicRegularPrice": 500,
+                            "finalPrice": 500,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "basePrice": 500
+                        }
+                    ],
+                    "meta": {
+                        "NewDisplayAssetPath": "sid_placeholder_31",
+                        "offertag": "sparksjamloop",
+                        "LayoutId": "JamTracks1005.97",
+                        "TileSize": "Size_1_x_1",
+                        "AnalyticOfferGroupId": "JamTracks1005",
+                        "templateId": "SparksSong:sid_placeholder_31",
+                        "webURL": "/item-shop/jam-tracks/feel-good-inc-ce56cd3b",
+                        "inDate": "2024-08-16T00:00:00.000Z",
+                        "outDate": "2024-11-01T23:59:59.999Z"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "SparksSong:sid_placeholder_31",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "offerType": "StaticPrice",
+                    "giftInfo": {
+                        "bIsEnabled": true,
+                        "forcedGiftBoxTemplateId": "",
+                        "purchaseRequirements": [],
+                        "giftRecordIds": []
+                    },
+                    "refundable": true,
+                    "metaInfo": [
+                        {
+                            "key": "NewDisplayAssetPath",
+                            "value": "sid_placeholder_31"
+                        },
+                        {
+                            "key": "offertag",
+                            "value": "sparksjamloop"
+                        },
+                        {
+                            "key": "LayoutId",
+                            "value": "JamTracks1005.97"
+                        },
+                        {
+                            "key": "TileSize",
+                            "value": "Size_1_x_1"
+                        },
+                        {
+                            "key": "AnalyticOfferGroupId",
+                            "value": "JamTracks1005"
+                        },
+                        {
+                            "key": "templateId",
+                            "value": "SparksSong:sid_placeholder_31"
+                        },
+                        {
+                            "key": "webURL",
+                            "value": "/item-shop/jam-tracks/feel-good-inc-ce56cd3b"
+                        },
+                        {
+                            "key": "inDate",
+                            "value": "2024-08-16T00:00:00.000Z"
+                        },
+                        {
+                            "key": "outDate",
+                            "value": "2024-11-01T23:59:59.999Z"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "SparksSong:sid_placeholder_31",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": -78,
                     "catalogGroupPriority": 0
                 },
                 {
@@ -33299,6 +33299,102 @@
                     "catalogGroupPriority": 0
                 },
                 {
+                    "devName": "[VIRTUAL]1 x Dynamite for 500 MtxCurrency",
+                    "offerId": "v2:/360a0fea9a26d741cd7746f2422f396236cb7bc04c7e9f73cf12f863b8733213",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 500,
+                            "dynamicRegularPrice": 500,
+                            "finalPrice": 500,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "basePrice": 500
+                        }
+                    ],
+                    "meta": {
+                        "NewDisplayAssetPath": "sid_placeholder_243",
+                        "offertag": "sparksjamloop",
+                        "LayoutId": "JamTracks1005.97",
+                        "TileSize": "Size_1_x_1",
+                        "AnalyticOfferGroupId": "JamTracks1005",
+                        "templateId": "SparksSong:sid_placeholder_243",
+                        "webURL": "/item-shop/jam-tracks/dynamite-48399fd5",
+                        "inDate": "2024-07-04T00:00:00.000Z",
+                        "outDate": "2024-11-01T23:59:59.999Z"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "SparksSong:sid_placeholder_243",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "offerType": "StaticPrice",
+                    "giftInfo": {
+                        "bIsEnabled": true,
+                        "forcedGiftBoxTemplateId": "",
+                        "purchaseRequirements": [],
+                        "giftRecordIds": []
+                    },
+                    "refundable": true,
+                    "metaInfo": [
+                        {
+                            "key": "NewDisplayAssetPath",
+                            "value": "sid_placeholder_243"
+                        },
+                        {
+                            "key": "offertag",
+                            "value": "sparksjamloop"
+                        },
+                        {
+                            "key": "LayoutId",
+                            "value": "JamTracks1005.97"
+                        },
+                        {
+                            "key": "TileSize",
+                            "value": "Size_1_x_1"
+                        },
+                        {
+                            "key": "AnalyticOfferGroupId",
+                            "value": "JamTracks1005"
+                        },
+                        {
+                            "key": "templateId",
+                            "value": "SparksSong:sid_placeholder_243"
+                        },
+                        {
+                            "key": "webURL",
+                            "value": "/item-shop/jam-tracks/dynamite-48399fd5"
+                        },
+                        {
+                            "key": "inDate",
+                            "value": "2024-07-04T00:00:00.000Z"
+                        },
+                        {
+                            "key": "outDate",
+                            "value": "2024-11-01T23:59:59.999Z"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "SparksSong:sid_placeholder_243",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": -70,
+                    "catalogGroupPriority": 0
+                },
+                {
                     "devName": "[VIRTUAL]1 x Beggin' for 500 MtxCurrency",
                     "offerId": "v2:/a8a6efd66bf9b3c407f6d2edf6aaf8b65f22769b1405afb7640a2670a16bd92e",
                     "fulfillmentIds": [],
@@ -34617,6 +34713,102 @@
                     ],
                     "additionalGrants": [],
                     "sortPriority": -92,
+                    "catalogGroupPriority": 0
+                },
+                {
+                    "devName": "[VIRTUAL]1 x TBD (SID_Placeholder_343) for 500 MtxCurrency",
+                    "offerId": "v2:/c67dd54de9916dfef33ad0ae82822b48f2d9df12d3baaa81040f8132a4a4ebdd",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 500,
+                            "dynamicRegularPrice": 500,
+                            "finalPrice": 500,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "basePrice": 500
+                        }
+                    ],
+                    "meta": {
+                        "NewDisplayAssetPath": "sid_placeholder_343",
+                        "offertag": "sparksjamloop",
+                        "LayoutId": "JamTracks1005.99",
+                        "TileSize": "Size_1_x_1",
+                        "AnalyticOfferGroupId": "JamTracks1005",
+                        "templateId": "SparksSong:sid_placeholder_343",
+                        "webURL": "/item-shop/jam-tracks/missing-all-translations-tbd-sidplaceholder343-57152564",
+                        "inDate": "2024-10-04T00:00:00.000Z",
+                        "outDate": "2024-11-01T23:59:59.999Z"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "SparksSong:sid_placeholder_343",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "offerType": "StaticPrice",
+                    "giftInfo": {
+                        "bIsEnabled": true,
+                        "forcedGiftBoxTemplateId": "",
+                        "purchaseRequirements": [],
+                        "giftRecordIds": []
+                    },
+                    "refundable": true,
+                    "metaInfo": [
+                        {
+                            "key": "NewDisplayAssetPath",
+                            "value": "sid_placeholder_343"
+                        },
+                        {
+                            "key": "offertag",
+                            "value": "sparksjamloop"
+                        },
+                        {
+                            "key": "LayoutId",
+                            "value": "JamTracks1005.99"
+                        },
+                        {
+                            "key": "TileSize",
+                            "value": "Size_1_x_1"
+                        },
+                        {
+                            "key": "AnalyticOfferGroupId",
+                            "value": "JamTracks1005"
+                        },
+                        {
+                            "key": "templateId",
+                            "value": "SparksSong:sid_placeholder_343"
+                        },
+                        {
+                            "key": "webURL",
+                            "value": "/item-shop/jam-tracks/missing-all-translations-tbd-sidplaceholder343-57152564"
+                        },
+                        {
+                            "key": "inDate",
+                            "value": "2024-10-04T00:00:00.000Z"
+                        },
+                        {
+                            "key": "outDate",
+                            "value": "2024-11-01T23:59:59.999Z"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "SparksSong:sid_placeholder_343",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": -1,
                     "catalogGroupPriority": 0
                 },
                 {
@@ -37844,6 +38036,102 @@
                     "catalogGroupPriority": 0
                 },
                 {
+                    "devName": "[VIRTUAL]1 x Call Me Maybe for 500 MtxCurrency",
+                    "offerId": "v2:/9a5a6b0d2dc3d2352a886215cbef052391376f78772ddf3169b1b1723aae1533",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 500,
+                            "dynamicRegularPrice": 500,
+                            "finalPrice": 500,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "basePrice": 500
+                        }
+                    ],
+                    "meta": {
+                        "NewDisplayAssetPath": "sid_placeholder_97",
+                        "offertag": "sparksjamloop",
+                        "LayoutId": "JamTracks1005.97",
+                        "TileSize": "Size_1_x_1",
+                        "AnalyticOfferGroupId": "JamTracks1005",
+                        "templateId": "SparksSong:sid_placeholder_97",
+                        "webURL": "/item-shop/jam-tracks/call-me-maybe-8e76fe14",
+                        "inDate": "2024-08-16T00:00:00.000Z",
+                        "outDate": "2024-11-01T23:59:59.999Z"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "SparksSong:sid_placeholder_97",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "offerType": "StaticPrice",
+                    "giftInfo": {
+                        "bIsEnabled": true,
+                        "forcedGiftBoxTemplateId": "",
+                        "purchaseRequirements": [],
+                        "giftRecordIds": []
+                    },
+                    "refundable": true,
+                    "metaInfo": [
+                        {
+                            "key": "NewDisplayAssetPath",
+                            "value": "sid_placeholder_97"
+                        },
+                        {
+                            "key": "offertag",
+                            "value": "sparksjamloop"
+                        },
+                        {
+                            "key": "LayoutId",
+                            "value": "JamTracks1005.97"
+                        },
+                        {
+                            "key": "TileSize",
+                            "value": "Size_1_x_1"
+                        },
+                        {
+                            "key": "AnalyticOfferGroupId",
+                            "value": "JamTracks1005"
+                        },
+                        {
+                            "key": "templateId",
+                            "value": "SparksSong:sid_placeholder_97"
+                        },
+                        {
+                            "key": "webURL",
+                            "value": "/item-shop/jam-tracks/call-me-maybe-8e76fe14"
+                        },
+                        {
+                            "key": "inDate",
+                            "value": "2024-08-16T00:00:00.000Z"
+                        },
+                        {
+                            "key": "outDate",
+                            "value": "2024-11-01T23:59:59.999Z"
+                        }
+                    ],
+                    "itemGrants": [
+                        {
+                            "templateId": "SparksSong:sid_placeholder_97",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": -48,
+                    "catalogGroupPriority": 0
+                },
+                {
                     "devName": "[VIRTUAL]1 x Carolina for 1500 MtxCurrency",
                     "offerId": "v2:/398fd55dceb2826f11f8cdf3ad589bc74ebf3b89fdfd1fba7d7b7caa4218eba5",
                     "fulfillmentIds": [],
@@ -37959,102 +38247,6 @@
                     ],
                     "additionalGrants": [],
                     "sortPriority": -1,
-                    "catalogGroupPriority": 0
-                },
-                {
-                    "devName": "[VIRTUAL]1 x Call Me Maybe for 500 MtxCurrency",
-                    "offerId": "v2:/9a5a6b0d2dc3d2352a886215cbef052391376f78772ddf3169b1b1723aae1533",
-                    "fulfillmentIds": [],
-                    "dailyLimit": -1,
-                    "weeklyLimit": -1,
-                    "monthlyLimit": -1,
-                    "categories": [],
-                    "prices": [
-                        {
-                            "currencyType": "MtxCurrency",
-                            "currencySubType": "",
-                            "regularPrice": 500,
-                            "dynamicRegularPrice": 500,
-                            "finalPrice": 500,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
-                            "basePrice": 500
-                        }
-                    ],
-                    "meta": {
-                        "NewDisplayAssetPath": "sid_placeholder_97",
-                        "offertag": "sparksjamloop",
-                        "LayoutId": "JamTracks1005.97",
-                        "TileSize": "Size_1_x_1",
-                        "AnalyticOfferGroupId": "JamTracks1005",
-                        "templateId": "SparksSong:sid_placeholder_97",
-                        "webURL": "/item-shop/jam-tracks/call-me-maybe-8e76fe14",
-                        "inDate": "2024-08-16T00:00:00.000Z",
-                        "outDate": "2024-11-01T23:59:59.999Z"
-                    },
-                    "matchFilter": "",
-                    "filterWeight": 0.0,
-                    "appStoreId": [],
-                    "requirements": [
-                        {
-                            "requirementType": "DenyOnItemOwnership",
-                            "requiredId": "SparksSong:sid_placeholder_97",
-                            "minQuantity": 1
-                        }
-                    ],
-                    "offerType": "StaticPrice",
-                    "giftInfo": {
-                        "bIsEnabled": true,
-                        "forcedGiftBoxTemplateId": "",
-                        "purchaseRequirements": [],
-                        "giftRecordIds": []
-                    },
-                    "refundable": true,
-                    "metaInfo": [
-                        {
-                            "key": "NewDisplayAssetPath",
-                            "value": "sid_placeholder_97"
-                        },
-                        {
-                            "key": "offertag",
-                            "value": "sparksjamloop"
-                        },
-                        {
-                            "key": "LayoutId",
-                            "value": "JamTracks1005.97"
-                        },
-                        {
-                            "key": "TileSize",
-                            "value": "Size_1_x_1"
-                        },
-                        {
-                            "key": "AnalyticOfferGroupId",
-                            "value": "JamTracks1005"
-                        },
-                        {
-                            "key": "templateId",
-                            "value": "SparksSong:sid_placeholder_97"
-                        },
-                        {
-                            "key": "webURL",
-                            "value": "/item-shop/jam-tracks/call-me-maybe-8e76fe14"
-                        },
-                        {
-                            "key": "inDate",
-                            "value": "2024-08-16T00:00:00.000Z"
-                        },
-                        {
-                            "key": "outDate",
-                            "value": "2024-11-01T23:59:59.999Z"
-                        }
-                    ],
-                    "itemGrants": [
-                        {
-                            "templateId": "SparksSong:sid_placeholder_97",
-                            "quantity": 1
-                        }
-                    ],
-                    "additionalGrants": [],
-                    "sortPriority": -48,
                     "catalogGroupPriority": 0
                 },
                 {
@@ -38786,102 +38978,6 @@
                     ],
                     "additionalGrants": [],
                     "sortPriority": -4,
-                    "catalogGroupPriority": 0
-                },
-                {
-                    "devName": "[VIRTUAL]1 x Dynamite for 500 MtxCurrency",
-                    "offerId": "v2:/ad2c09e8009bcee00cc61df638b231f850d173dd37fa53d255636503f9683599",
-                    "fulfillmentIds": [],
-                    "dailyLimit": -1,
-                    "weeklyLimit": -1,
-                    "monthlyLimit": -1,
-                    "categories": [],
-                    "prices": [
-                        {
-                            "currencyType": "MtxCurrency",
-                            "currencySubType": "",
-                            "regularPrice": 500,
-                            "dynamicRegularPrice": 500,
-                            "finalPrice": 500,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
-                            "basePrice": 500
-                        }
-                    ],
-                    "meta": {
-                        "NewDisplayAssetPath": "sid_placeholder_243",
-                        "offertag": "sparksjamloop",
-                        "LayoutId": "JamTracks1005.99",
-                        "TileSize": "Size_1_x_1",
-                        "AnalyticOfferGroupId": "JamTracks1005",
-                        "templateId": "SparksSong:sid_placeholder_243",
-                        "webURL": "/item-shop/jam-tracks/dynamite-48399fd5",
-                        "inDate": "2024-07-04T00:00:00.000Z",
-                        "outDate": "2024-11-01T23:59:59.999Z"
-                    },
-                    "matchFilter": "",
-                    "filterWeight": 0.0,
-                    "appStoreId": [],
-                    "requirements": [
-                        {
-                            "requirementType": "DenyOnItemOwnership",
-                            "requiredId": "SparksSong:sid_placeholder_243",
-                            "minQuantity": 1
-                        }
-                    ],
-                    "offerType": "StaticPrice",
-                    "giftInfo": {
-                        "bIsEnabled": true,
-                        "forcedGiftBoxTemplateId": "",
-                        "purchaseRequirements": [],
-                        "giftRecordIds": []
-                    },
-                    "refundable": true,
-                    "metaInfo": [
-                        {
-                            "key": "NewDisplayAssetPath",
-                            "value": "sid_placeholder_243"
-                        },
-                        {
-                            "key": "offertag",
-                            "value": "sparksjamloop"
-                        },
-                        {
-                            "key": "LayoutId",
-                            "value": "JamTracks1005.99"
-                        },
-                        {
-                            "key": "TileSize",
-                            "value": "Size_1_x_1"
-                        },
-                        {
-                            "key": "AnalyticOfferGroupId",
-                            "value": "JamTracks1005"
-                        },
-                        {
-                            "key": "templateId",
-                            "value": "SparksSong:sid_placeholder_243"
-                        },
-                        {
-                            "key": "webURL",
-                            "value": "/item-shop/jam-tracks/dynamite-48399fd5"
-                        },
-                        {
-                            "key": "inDate",
-                            "value": "2024-07-04T00:00:00.000Z"
-                        },
-                        {
-                            "key": "outDate",
-                            "value": "2024-11-01T23:59:59.999Z"
-                        }
-                    ],
-                    "itemGrants": [
-                        {
-                            "templateId": "SparksSong:sid_placeholder_243",
-                            "quantity": 1
-                        }
-                    ],
-                    "additionalGrants": [],
-                    "sortPriority": -1,
                     "catalogGroupPriority": 0
                 },
                 {
@@ -40920,102 +41016,6 @@
                     ],
                     "additionalGrants": [],
                     "sortPriority": -2,
-                    "catalogGroupPriority": 0
-                },
-                {
-                    "devName": "[VIRTUAL]1 x TBD (SID_Placeholder_343) for 500 MtxCurrency",
-                    "offerId": "v2:/c6365d2198ff4ed65c414e14dc9d64ead3592acd7a3e2377050671af490dcfae",
-                    "fulfillmentIds": [],
-                    "dailyLimit": -1,
-                    "weeklyLimit": -1,
-                    "monthlyLimit": -1,
-                    "categories": [],
-                    "prices": [
-                        {
-                            "currencyType": "MtxCurrency",
-                            "currencySubType": "",
-                            "regularPrice": 500,
-                            "dynamicRegularPrice": 500,
-                            "finalPrice": 500,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
-                            "basePrice": 500
-                        }
-                    ],
-                    "meta": {
-                        "NewDisplayAssetPath": "sid_placeholder_343",
-                        "offertag": "sparksjamloop",
-                        "LayoutId": "JamTracks1005.97",
-                        "TileSize": "Size_1_x_1",
-                        "AnalyticOfferGroupId": "JamTracks1005",
-                        "templateId": "SparksSong:sid_placeholder_343",
-                        "webURL": "/item-shop/jam-tracks/missing-all-translations-tbd-sidplaceholder343-57152564",
-                        "inDate": "2024-10-04T00:00:00.000Z",
-                        "outDate": "2024-11-01T23:59:59.999Z"
-                    },
-                    "matchFilter": "",
-                    "filterWeight": 0.0,
-                    "appStoreId": [],
-                    "requirements": [
-                        {
-                            "requirementType": "DenyOnItemOwnership",
-                            "requiredId": "SparksSong:sid_placeholder_343",
-                            "minQuantity": 1
-                        }
-                    ],
-                    "offerType": "StaticPrice",
-                    "giftInfo": {
-                        "bIsEnabled": true,
-                        "forcedGiftBoxTemplateId": "",
-                        "purchaseRequirements": [],
-                        "giftRecordIds": []
-                    },
-                    "refundable": true,
-                    "metaInfo": [
-                        {
-                            "key": "NewDisplayAssetPath",
-                            "value": "sid_placeholder_343"
-                        },
-                        {
-                            "key": "offertag",
-                            "value": "sparksjamloop"
-                        },
-                        {
-                            "key": "LayoutId",
-                            "value": "JamTracks1005.97"
-                        },
-                        {
-                            "key": "TileSize",
-                            "value": "Size_1_x_1"
-                        },
-                        {
-                            "key": "AnalyticOfferGroupId",
-                            "value": "JamTracks1005"
-                        },
-                        {
-                            "key": "templateId",
-                            "value": "SparksSong:sid_placeholder_343"
-                        },
-                        {
-                            "key": "webURL",
-                            "value": "/item-shop/jam-tracks/missing-all-translations-tbd-sidplaceholder343-57152564"
-                        },
-                        {
-                            "key": "inDate",
-                            "value": "2024-10-04T00:00:00.000Z"
-                        },
-                        {
-                            "key": "outDate",
-                            "value": "2024-11-01T23:59:59.999Z"
-                        }
-                    ],
-                    "itemGrants": [
-                        {
-                            "templateId": "SparksSong:sid_placeholder_343",
-                            "quantity": 1
-                        }
-                    ],
-                    "additionalGrants": [],
-                    "sortPriority": -70,
                     "catalogGroupPriority": 0
                 },
                 {
@@ -43466,6 +43466,114 @@
                     "catalogGroupPriority": 0
                 },
                 {
+                    "devName": "[VIRTUAL]1 x Jagged Edge for 500 MtxCurrency",
+                    "offerId": "v2:/f75f5f0b2ba4c0706436050046523f2cb22e95dccd1b6f1704c02e33fc30f2c4",
+                    "fulfillmentIds": [],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "categories": [],
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 500,
+                            "dynamicRegularPrice": 500,
+                            "finalPrice": 500,
+                            "saleExpiration": "9999-12-31T23:59:59.999Z",
+                            "basePrice": 500
+                        }
+                    ],
+                    "meta": {
+                        "LayoutId": "PickaxeShop2.99",
+                        "TileSize": "Size_1_x_1",
+                        "AnalyticOfferGroupId": "PickaxeShop2",
+                        "templateId": "AthenaPickaxe:pickaxe_id_268_toxickitty1h",
+                        "webURL": "/item-shop/pickaxes/jagged-edge-ff1ae8d2",
+                        "color1": "#6e9600",
+                        "color2": "#2e6600",
+                        "color3": "#042600",
+                        "textBackgroundColor": "#042600",
+                        "inDate": "2024-10-04T00:00:00.000Z",
+                        "outDate": "2024-10-05T23:59:59.999Z",
+                        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_268_ToxicKitty1H.DA_Featured_Pickaxe_ID_268_ToxicKitty1H"
+                    },
+                    "matchFilter": "",
+                    "filterWeight": 0.0,
+                    "appStoreId": [],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "AthenaPickaxe:pickaxe_id_268_toxickitty1h",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "offerType": "StaticPrice",
+                    "giftInfo": {
+                        "bIsEnabled": true,
+                        "forcedGiftBoxTemplateId": "",
+                        "purchaseRequirements": [],
+                        "giftRecordIds": []
+                    },
+                    "refundable": true,
+                    "metaInfo": [
+                        {
+                            "key": "LayoutId",
+                            "value": "PickaxeShop2.99"
+                        },
+                        {
+                            "key": "TileSize",
+                            "value": "Size_1_x_1"
+                        },
+                        {
+                            "key": "AnalyticOfferGroupId",
+                            "value": "PickaxeShop2"
+                        },
+                        {
+                            "key": "templateId",
+                            "value": "AthenaPickaxe:pickaxe_id_268_toxickitty1h"
+                        },
+                        {
+                            "key": "webURL",
+                            "value": "/item-shop/pickaxes/jagged-edge-ff1ae8d2"
+                        },
+                        {
+                            "key": "color1",
+                            "value": "#6e9600"
+                        },
+                        {
+                            "key": "color2",
+                            "value": "#2e6600"
+                        },
+                        {
+                            "key": "color3",
+                            "value": "#042600"
+                        },
+                        {
+                            "key": "textBackgroundColor",
+                            "value": "#042600"
+                        },
+                        {
+                            "key": "inDate",
+                            "value": "2024-10-04T00:00:00.000Z"
+                        },
+                        {
+                            "key": "outDate",
+                            "value": "2024-10-05T23:59:59.999Z"
+                        }
+                    ],
+                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_268_ToxicKitty1H.DA_Featured_Pickaxe_ID_268_ToxicKitty1H",
+                    "itemGrants": [
+                        {
+                            "templateId": "AthenaPickaxe:pickaxe_id_268_toxickitty1h",
+                            "quantity": 1
+                        }
+                    ],
+                    "additionalGrants": [],
+                    "sortPriority": -2,
+                    "catalogGroupPriority": 0
+                },
+                {
                     "devName": "[VIRTUAL]1 x The Godslayer for 800 MtxCurrency",
                     "offerId": "v2:/ef139c9a39d7946b64db58c7a9f2f8cd132cea32e80b35580a0560a73068c216",
                     "fulfillmentIds": [],
@@ -43576,114 +43684,6 @@
                     ],
                     "additionalGrants": [],
                     "sortPriority": -4,
-                    "catalogGroupPriority": 0
-                },
-                {
-                    "devName": "[VIRTUAL]1 x Jagged Edge for 500 MtxCurrency",
-                    "offerId": "v2:/f75f5f0b2ba4c0706436050046523f2cb22e95dccd1b6f1704c02e33fc30f2c4",
-                    "fulfillmentIds": [],
-                    "dailyLimit": -1,
-                    "weeklyLimit": -1,
-                    "monthlyLimit": -1,
-                    "categories": [],
-                    "prices": [
-                        {
-                            "currencyType": "MtxCurrency",
-                            "currencySubType": "",
-                            "regularPrice": 500,
-                            "dynamicRegularPrice": 500,
-                            "finalPrice": 500,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
-                            "basePrice": 500
-                        }
-                    ],
-                    "meta": {
-                        "LayoutId": "PickaxeShop2.99",
-                        "TileSize": "Size_1_x_1",
-                        "AnalyticOfferGroupId": "PickaxeShop2",
-                        "templateId": "AthenaPickaxe:pickaxe_id_268_toxickitty1h",
-                        "webURL": "/item-shop/pickaxes/jagged-edge-ff1ae8d2",
-                        "color1": "#6e9600",
-                        "color2": "#2e6600",
-                        "color3": "#042600",
-                        "textBackgroundColor": "#042600",
-                        "inDate": "2024-10-04T00:00:00.000Z",
-                        "outDate": "2024-10-05T23:59:59.999Z",
-                        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_268_ToxicKitty1H.DA_Featured_Pickaxe_ID_268_ToxicKitty1H"
-                    },
-                    "matchFilter": "",
-                    "filterWeight": 0.0,
-                    "appStoreId": [],
-                    "requirements": [
-                        {
-                            "requirementType": "DenyOnItemOwnership",
-                            "requiredId": "AthenaPickaxe:pickaxe_id_268_toxickitty1h",
-                            "minQuantity": 1
-                        }
-                    ],
-                    "offerType": "StaticPrice",
-                    "giftInfo": {
-                        "bIsEnabled": true,
-                        "forcedGiftBoxTemplateId": "",
-                        "purchaseRequirements": [],
-                        "giftRecordIds": []
-                    },
-                    "refundable": true,
-                    "metaInfo": [
-                        {
-                            "key": "LayoutId",
-                            "value": "PickaxeShop2.99"
-                        },
-                        {
-                            "key": "TileSize",
-                            "value": "Size_1_x_1"
-                        },
-                        {
-                            "key": "AnalyticOfferGroupId",
-                            "value": "PickaxeShop2"
-                        },
-                        {
-                            "key": "templateId",
-                            "value": "AthenaPickaxe:pickaxe_id_268_toxickitty1h"
-                        },
-                        {
-                            "key": "webURL",
-                            "value": "/item-shop/pickaxes/jagged-edge-ff1ae8d2"
-                        },
-                        {
-                            "key": "color1",
-                            "value": "#6e9600"
-                        },
-                        {
-                            "key": "color2",
-                            "value": "#2e6600"
-                        },
-                        {
-                            "key": "color3",
-                            "value": "#042600"
-                        },
-                        {
-                            "key": "textBackgroundColor",
-                            "value": "#042600"
-                        },
-                        {
-                            "key": "inDate",
-                            "value": "2024-10-04T00:00:00.000Z"
-                        },
-                        {
-                            "key": "outDate",
-                            "value": "2024-10-05T23:59:59.999Z"
-                        }
-                    ],
-                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_268_ToxicKitty1H.DA_Featured_Pickaxe_ID_268_ToxicKitty1H",
-                    "itemGrants": [
-                        {
-                            "templateId": "AthenaPickaxe:pickaxe_id_268_toxickitty1h",
-                            "quantity": 1
-                        }
-                    ],
-                    "additionalGrants": [],
-                    "sortPriority": -2,
                     "catalogGroupPriority": 0
                 },
                 {
