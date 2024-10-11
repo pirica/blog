@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T05:29:12.669Z",
+                    "validFrom": "2024-10-11T06:14:07.914Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T07:29:12.669Z"
+            "cacheExpire": "2024-10-11T08:14:07.914Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T05:29:12.669Z",
+                    "validFrom": "2024-10-11T06:14:07.914Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -130,12 +130,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T07:29:12.669Z"
+            "cacheExpire": "2024-10-11T08:14:07.914Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T05:29:12.669Z",
+                    "validFrom": "2024-10-11T06:14:07.914Z",
                     "activeEvents": [],
                     "state": {
                         "k": [
@@ -146,12 +146,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T07:29:12.669Z"
+            "cacheExpire": "2024-10-11T08:14:07.914Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T05:29:12.669Z",
+                    "validFrom": "2024-10-11T06:14:07.914Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -161,12 +161,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T07:29:12.669Z"
+            "cacheExpire": "2024-10-11T08:14:07.914Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T05:29:12.669Z",
+                    "validFrom": "2024-10-11T06:14:07.914Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -176,12 +176,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T07:29:12.669Z"
+            "cacheExpire": "2024-10-11T08:14:07.914Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T05:29:12.669Z",
+                    "validFrom": "2024-10-11T06:14:07.914Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -352,11 +352,6 @@
                             "eventType": "EventFlag.Event_DelMar_TimeTrials_02",
                             "activeUntil": "2024-10-11T11:00:00.000Z",
                             "activeSince": "2024-09-13T11:00:00.000Z"
-                        },
-                        {
-                            "eventType": "EventFlag.Event_ButtercakePass",
-                            "activeUntil": "2024-10-11T06:00:00.000Z",
-                            "activeSince": "2024-09-16T13:00:00.000Z"
                         },
                         {
                             "eventType": "EventFlag.Event_S31_FoundQuests_GreenTown",
@@ -637,14 +632,6 @@
                                 "eventStart": "2024-09-13T11:00:00Z",
                                 "eventEnd": "2024-10-11T11:00:00Z",
                                 "eventType": "EventFlag.Event_DelMar_TimeTrials_02"
-                            },
-                            {
-                                "instanceId": "0b46hco2eo7emp4mtph1rn2c2p[2]0",
-                                "devName": "Juno Buttercake Pass",
-                                "eventName": "CalendarEvent_ButtercakePass",
-                                "eventStart": "2024-09-16T13:00:00Z",
-                                "eventEnd": "2024-10-11T06:00:00Z",
-                                "eventType": "EventFlag.Event_ButtercakePass"
                             },
                             {
                                 "instanceId": "65c9cb46elnencdbq70srlbtuu[2]0",
@@ -719,7 +706,7 @@
                     }
                 },
                 {
-                    "validFrom": "2024-10-11T06:00:00.000Z",
+                    "validFrom": "2024-10-11T08:00:00.000Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -745,16 +732,6 @@
                             "eventType": "EventFlag.Event_S30_BlastBerryQuests",
                             "activeUntil": "2024-11-02T06:00:00.000Z",
                             "activeSince": "2024-06-22T18:05:00.000Z"
-                        },
-                        {
-                            "eventType": "EventFlag.Event_DelMar_Inferno",
-                            "activeUntil": "2024-10-11T08:00:00.000Z",
-                            "activeSince": "2024-07-23T08:00:00.000Z"
-                        },
-                        {
-                            "eventType": "EventFlag.Event_DelMar_Rank_02",
-                            "activeUntil": "2024-10-11T08:00:00.000Z",
-                            "activeSince": "2024-07-23T08:00:00.000Z"
                         },
                         {
                             "eventType": "EventFlag.Event_DelMar_QuestPack_02",
@@ -1045,6 +1022,21 @@
                             "eventType": "PilgrimSong.happy",
                             "activeUntil": "2024-10-15T00:00:00.000Z",
                             "activeSince": "2024-10-11T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_DelMar_Season03",
+                            "activeUntil": "2024-12-01T09:00:00.000Z",
+                            "activeSince": "2024-10-11T08:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_DelMar_Season03_Rank",
+                            "activeUntil": "2024-12-01T09:00:00.000Z",
+                            "activeSince": "2024-10-11T08:00:00.000Z"
+                        },
+                        {
+                            "eventType": "PilgrimSong.nightmareschoice",
+                            "activeUntil": "2024-11-02T08:00:00.000Z",
+                            "activeSince": "2024-10-11T08:00:00.000Z"
                         }
                     ],
                     "state": {
@@ -1090,22 +1082,6 @@
                                 "eventStart": "2024-06-22T18:05:00Z",
                                 "eventEnd": "2024-11-02T06:00:00Z",
                                 "eventType": "EventFlag.Event_S30_BlastBerryQuests"
-                            },
-                            {
-                                "instanceId": "78dienc5559ave48k2v4htfujr[2]0",
-                                "devName": "DelMarInferno",
-                                "eventName": "CalendarEvent_DelMar_Inferno",
-                                "eventStart": "2024-07-23T08:00:00Z",
-                                "eventEnd": "2024-10-11T08:00:00Z",
-                                "eventType": "EventFlag.Event_DelMar_Inferno"
-                            },
-                            {
-                                "instanceId": "5fjjrr1i2ee8nnunb283e9lru7[2]0",
-                                "devName": "DelMarRank_02",
-                                "eventName": "CalendarEvent_DelMar_Rank_02",
-                                "eventStart": "2024-07-23T08:00:00Z",
-                                "eventEnd": "2024-10-11T08:00:00Z",
-                                "eventType": "EventFlag.Event_DelMar_Rank_02"
                             },
                             {
                                 "instanceId": "3s12fq0ljdbdjhsig8nrk9tchi[2]0",
@@ -1226,6 +1202,22 @@
                                 "eventStart": "2024-10-10T23:00:00Z",
                                 "eventEnd": "2024-10-17T23:00:00Z",
                                 "eventType": "EventFlag.Event_SparksS05_Week09"
+                            },
+                            {
+                                "instanceId": "519rkjuhj2v9415va6udprsueb[2]0",
+                                "devName": "DelMar_Season03",
+                                "eventName": "CalendarEvent_DelMar_Season03",
+                                "eventStart": "2024-10-11T08:00:00Z",
+                                "eventEnd": "2024-12-01T09:00:00Z",
+                                "eventType": "EventFlag.Event_DelMar_Season03"
+                            },
+                            {
+                                "instanceId": "74vvmanpcf3e2cup6dj43cl1cs[2]0",
+                                "devName": "DelMar_Season03_Rank",
+                                "eventName": "CalendarEvent_DelMar_Season03_Rank",
+                                "eventStart": "2024-10-11T08:00:00Z",
+                                "eventEnd": "2024-12-01T09:00:00Z",
+                                "eventType": "EventFlag.Event_DelMar_Season03_Rank"
                             }
                         ],
                         "seasonNumber": 31,
@@ -1244,9 +1236,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T07:29:12.669Z"
+            "cacheExpire": "2024-10-11T08:14:07.914Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-10-11T05:57:01.162Z"
+    "currentTime": "2024-10-11T06:30:01.142Z"
 }
