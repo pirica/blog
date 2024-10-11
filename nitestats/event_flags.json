@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T15:07:27.153Z",
+                    "validFrom": "2024-10-11T15:23:10.749Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T17:07:27.153Z"
+            "cacheExpire": "2024-10-11T17:23:10.749Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T15:07:27.153Z",
+                    "validFrom": "2024-10-11T15:23:10.749Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -130,12 +130,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T17:07:27.153Z"
+            "cacheExpire": "2024-10-11T17:23:10.749Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T15:07:27.153Z",
+                    "validFrom": "2024-10-11T15:23:10.749Z",
                     "activeEvents": [],
                     "state": {
                         "k": [
@@ -146,12 +146,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T17:07:27.153Z"
+            "cacheExpire": "2024-10-11T17:23:10.749Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T15:07:27.153Z",
+                    "validFrom": "2024-10-11T15:23:10.749Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -161,12 +161,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T17:07:27.153Z"
+            "cacheExpire": "2024-10-11T17:23:10.749Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T15:07:27.153Z",
+                    "validFrom": "2024-10-11T15:23:10.749Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -176,12 +176,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T17:07:27.153Z"
+            "cacheExpire": "2024-10-11T17:23:10.749Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-10-11T15:07:27.153Z",
+                    "validFrom": "2024-10-11T15:23:10.749Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -337,11 +337,6 @@
                             "eventType": "EventFlag.ElderGroupMissions",
                             "activeUntil": "2024-10-31T00:00:00.000Z",
                             "activeSince": "2024-09-05T00:00:00.000Z"
-                        },
-                        {
-                            "eventType": "EventFlag.Event_DelMar_TimeTrials_02",
-                            "activeUntil": "2024-10-12T11:00:00.000Z",
-                            "activeSince": "2024-09-13T11:00:00.000Z"
                         },
                         {
                             "eventType": "EventFlag.Event_S31_FoundQuests_GreenTown",
@@ -605,14 +600,6 @@
                                 "eventType": "EventFlag.Event_S31_FoundQuests_PB_P02"
                             },
                             {
-                                "instanceId": "1tbm24840jartsuo3mpvv609pi[2]0",
-                                "devName": "DelMar_TimeTrials_02",
-                                "eventName": "CalendarEvent_DelMar_TimeTrials_02",
-                                "eventStart": "2024-09-13T11:00:00Z",
-                                "eventEnd": "2024-10-12T11:00:00Z",
-                                "eventType": "EventFlag.Event_DelMar_TimeTrials_02"
-                            },
-                            {
                                 "instanceId": "65c9cb46elnencdbq70srlbtuu[2]0",
                                 "devName": "Event_S31_FoundQuests_GreenTown",
                                 "eventName": "CalendarEvent_S31_FoundQuests_GreenTown",
@@ -685,9 +672,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-11T17:07:27.153Z"
+            "cacheExpire": "2024-10-11T17:23:10.749Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-10-11T15:22:31.097Z"
+    "currentTime": "2024-10-11T15:38:20.262Z"
 }
