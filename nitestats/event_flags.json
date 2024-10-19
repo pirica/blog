@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-10-19T00:53:53.394Z",
+                    "validFrom": "2024-10-19T02:08:47.166Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-19T02:53:53.394Z"
+            "cacheExpire": "2024-10-19T04:08:47.166Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-10-19T00:53:53.394Z",
+                    "validFrom": "2024-10-19T02:08:47.166Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -144,14 +144,74 @@
                             }
                         }
                     }
+                },
+                {
+                    "validFrom": "2024-10-19T04:00:00.000Z",
+                    "activeEvents": [],
+                    "state": {
+                        "region": {
+                            "ME": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ],
+                                "eventFlagsForcedOff": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "NAE": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "NAW": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "NAC": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "EU": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "ASIA": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "OCE": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "BR": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            }
+                        }
+                    }
                 }
             ],
-            "cacheExpire": "2024-10-19T02:53:53.394Z"
+            "cacheExpire": "2024-10-19T04:08:47.166Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-10-19T00:53:53.394Z",
+                    "validFrom": "2024-10-19T02:08:47.166Z",
                     "activeEvents": [],
                     "state": {
                         "k": [
@@ -162,12 +222,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-19T02:53:53.394Z"
+            "cacheExpire": "2024-10-19T04:08:47.166Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-10-19T00:53:53.394Z",
+                    "validFrom": "2024-10-19T02:08:47.166Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -177,12 +237,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-19T02:53:53.394Z"
+            "cacheExpire": "2024-10-19T04:08:47.166Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-10-19T00:53:53.394Z",
+                    "validFrom": "2024-10-19T02:08:47.166Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -192,12 +252,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-19T02:53:53.394Z"
+            "cacheExpire": "2024-10-19T04:08:47.166Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-10-19T00:53:53.394Z",
+                    "validFrom": "2024-10-19T02:08:47.166Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -811,9 +871,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-10-19T02:53:53.394Z"
+            "cacheExpire": "2024-10-19T04:08:47.166Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-10-19T01:19:35.294Z"
+    "currentTime": "2024-10-19T02:30:10.205Z"
 }
