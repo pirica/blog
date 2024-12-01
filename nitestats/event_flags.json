@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-12-01T01:41:54.414Z",
+                    "validFrom": "2024-12-01T02:58:48.166Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-01T03:41:54.414Z"
+            "cacheExpire": "2024-12-01T04:58:48.166Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-12-01T01:41:54.414Z",
+                    "validFrom": "2024-12-01T02:58:48.166Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -128,14 +128,70 @@
                             }
                         }
                     }
+                },
+                {
+                    "validFrom": "2024-12-01T04:00:00.000Z",
+                    "activeEvents": [],
+                    "state": {
+                        "region": {
+                            "ME": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "NAE": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "NAW": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "NAC": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "EU": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "ASIA": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "OCE": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "BR": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            }
+                        }
+                    }
                 }
             ],
-            "cacheExpire": "2024-12-01T03:41:54.414Z"
+            "cacheExpire": "2024-12-01T04:58:48.166Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-12-01T01:41:54.414Z",
+                    "validFrom": "2024-12-01T02:58:48.166Z",
                     "activeEvents": [],
                     "state": {
                         "k": [
@@ -147,12 +203,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-01T03:41:54.414Z"
+            "cacheExpire": "2024-12-01T04:58:48.166Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-12-01T01:41:54.414Z",
+                    "validFrom": "2024-12-01T02:58:48.166Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -162,12 +218,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-01T03:41:54.414Z"
+            "cacheExpire": "2024-12-01T04:58:48.166Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-12-01T01:41:54.414Z",
+                    "validFrom": "2024-12-01T02:58:48.166Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -177,12 +233,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-01T03:41:54.414Z"
+            "cacheExpire": "2024-12-01T04:58:48.166Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-12-01T01:41:54.414Z",
+                    "validFrom": "2024-12-01T02:58:48.166Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -330,6 +386,11 @@
                             "activeSince": "2024-11-21T00:00:00.000Z"
                         },
                         {
+                            "eventType": "EventFlag.LobbySeason33",
+                            "activeUntil": "2025-02-28T14:00:00.000Z",
+                            "activeSince": "2024-11-24T14:00:00.000Z"
+                        },
+                        {
                             "eventType": "EventFlag.Event_S32_Quail",
                             "activeUntil": "2024-12-01T03:00:00.000Z",
                             "activeSince": "2024-11-25T14:00:00.000Z"
@@ -343,6 +404,16 @@
                             "eventType": "EventFlag.Frostnite.Week1",
                             "activeUntil": "2024-12-05T00:00:00.000Z",
                             "activeSince": "2024-11-28T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_Ecosystem_DailyBonusGoals",
+                            "activeUntil": "2028-11-17T07:00:00.000Z",
+                            "activeSince": "2024-11-28T09:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_ JunoQuestRepeatable  ",
+                            "activeUntil": "2025-02-11T05:00:00.000Z",
+                            "activeSince": "2024-11-30T05:00:00.000Z"
                         },
                         {
                             "eventType": "QNN",
@@ -641,14 +712,30 @@
                                 "eventStart": "2024-11-28T00:00:00Z",
                                 "eventEnd": "2024-12-05T00:00:00Z",
                                 "eventType": "EventFlag.Event_SparksS06_Week05"
+                            },
+                            {
+                                "instanceId": "41ohiiqdfkkj5u2bln49e0tu20[2]0",
+                                "devName": "Event_Ecosystem_DailyBonusGoals",
+                                "eventName": "CalendarEvent_Ecosystem_DailyBonusGoals",
+                                "eventStart": "2024-11-28T09:00:00Z",
+                                "eventEnd": "2028-11-17T07:00:00Z",
+                                "eventType": "EventFlag.Event_Ecosystem_DailyBonusGoals"
+                            },
+                            {
+                                "instanceId": "0fb0h0brau7neh8bcfoamsb55p[2]0",
+                                "devName": "Juno Quest Repeatable",
+                                "eventName": "CalendarEvent_JunoQuestRepeatable",
+                                "eventStart": "2024-11-30T05:00:00Z",
+                                "eventEnd": "2025-02-11T05:00:00Z",
+                                "eventType": "EventFlag.Event_ JunoQuestRepeatable  "
                             }
                         ],
-                        "seasonNumber": 32,
-                        "seasonTemplateId": "AthenaSeason:athenaseason32",
+                        "seasonNumber": 33,
+                        "seasonTemplateId": "AthenaSeason:athenaseason33",
                         "matchXpBonusPoints": 0,
                         "eventPunchCardTemplateId": "",
-                        "seasonBegin": "2024-10-30T14:00:00Z",
-                        "seasonEnd": "2024-12-08T14:00:00Z",
+                        "seasonBegin": "2024-11-24T14:00:00Z",
+                        "seasonEnd": "2025-02-28T14:00:00Z",
                         "seasonDisplayedEnd": "0001-01-01T00:00:00.000Z",
                         "weeklyStoreEnd": "0001-01-01T00:00:00.000Z",
                         "stwEventStoreEnd": "2025-01-23T00:00:00.000Z",
@@ -807,6 +894,11 @@
                             "activeSince": "2024-11-21T00:00:00.000Z"
                         },
                         {
+                            "eventType": "EventFlag.LobbySeason33",
+                            "activeUntil": "2025-02-28T14:00:00.000Z",
+                            "activeSince": "2024-11-24T14:00:00.000Z"
+                        },
+                        {
                             "eventType": "EventFlag.Event_SparksS06_Week05",
                             "activeUntil": "2024-12-05T00:00:00.000Z",
                             "activeSince": "2024-11-28T00:00:00.000Z"
@@ -815,6 +907,16 @@
                             "eventType": "EventFlag.Frostnite.Week1",
                             "activeUntil": "2024-12-05T00:00:00.000Z",
                             "activeSince": "2024-11-28T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_Ecosystem_DailyBonusGoals",
+                            "activeUntil": "2028-11-17T07:00:00.000Z",
+                            "activeSince": "2024-11-28T09:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_ JunoQuestRepeatable  ",
+                            "activeUntil": "2025-02-11T05:00:00.000Z",
+                            "activeSince": "2024-11-30T05:00:00.000Z"
                         },
                         {
                             "eventType": "QNN",
@@ -1105,14 +1207,30 @@
                                 "eventStart": "2024-11-28T00:00:00Z",
                                 "eventEnd": "2024-12-05T00:00:00Z",
                                 "eventType": "EventFlag.Event_SparksS06_Week05"
+                            },
+                            {
+                                "instanceId": "41ohiiqdfkkj5u2bln49e0tu20[2]0",
+                                "devName": "Event_Ecosystem_DailyBonusGoals",
+                                "eventName": "CalendarEvent_Ecosystem_DailyBonusGoals",
+                                "eventStart": "2024-11-28T09:00:00Z",
+                                "eventEnd": "2028-11-17T07:00:00Z",
+                                "eventType": "EventFlag.Event_Ecosystem_DailyBonusGoals"
+                            },
+                            {
+                                "instanceId": "0fb0h0brau7neh8bcfoamsb55p[2]0",
+                                "devName": "Juno Quest Repeatable",
+                                "eventName": "CalendarEvent_JunoQuestRepeatable",
+                                "eventStart": "2024-11-30T05:00:00Z",
+                                "eventEnd": "2025-02-11T05:00:00Z",
+                                "eventType": "EventFlag.Event_ JunoQuestRepeatable  "
                             }
                         ],
-                        "seasonNumber": 32,
-                        "seasonTemplateId": "AthenaSeason:athenaseason32",
+                        "seasonNumber": 33,
+                        "seasonTemplateId": "AthenaSeason:athenaseason33",
                         "matchXpBonusPoints": 0,
                         "eventPunchCardTemplateId": "",
-                        "seasonBegin": "2024-10-30T14:00:00Z",
-                        "seasonEnd": "2024-12-08T14:00:00Z",
+                        "seasonBegin": "2024-11-24T14:00:00Z",
+                        "seasonEnd": "2025-02-28T14:00:00Z",
                         "seasonDisplayedEnd": "0001-01-01T00:00:00.000Z",
                         "weeklyStoreEnd": "0001-01-01T00:00:00.000Z",
                         "stwEventStoreEnd": "2025-01-23T00:00:00.000Z",
@@ -1123,9 +1241,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-01T03:41:54.414Z"
+            "cacheExpire": "2024-12-01T04:58:48.166Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-12-01T02:01:10.269Z"
+    "currentTime": "2024-12-01T03:18:20.271Z"
 }
