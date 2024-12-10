@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2024-12-10T10:03:01.505Z",
+                    "validFrom": "2024-12-10T10:28:36.478Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-10T12:03:01.505Z"
+            "cacheExpire": "2024-12-10T12:28:36.478Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2024-12-10T10:03:01.505Z",
+                    "validFrom": "2024-12-10T10:28:36.478Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -130,24 +130,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-10T12:03:01.505Z"
+            "cacheExpire": "2024-12-10T12:28:36.478Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2024-12-10T10:03:01.505Z",
+                    "validFrom": "2024-12-10T10:28:36.478Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2024-12-10T12:03:01.505Z"
+            "cacheExpire": "2024-12-10T12:28:36.478Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2024-12-10T10:03:01.505Z",
+                    "validFrom": "2024-12-10T10:28:36.478Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -157,12 +157,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-10T12:03:01.505Z"
+            "cacheExpire": "2024-12-10T12:28:36.478Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2024-12-10T10:03:01.505Z",
+                    "validFrom": "2024-12-10T10:28:36.478Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -172,12 +172,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-10T12:03:01.505Z"
+            "cacheExpire": "2024-12-10T12:28:36.478Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2024-12-10T10:03:01.505Z",
+                    "validFrom": "2024-12-10T10:28:36.478Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -518,6 +518,16 @@
                             "eventType": "PilgrimSong.forwhomthebelltolls",
                             "activeUntil": "2024-12-11T00:00:00.000Z",
                             "activeSince": "2024-12-10T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.StormKing.Landmark",
+                            "activeUntil": "2025-01-23T00:00:00.000Z",
+                            "activeSince": "2024-12-10T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_JunoSeason1Pass",
+                            "activeUntil": "2025-03-11T07:30:00.000Z",
+                            "activeSince": "2024-12-10T05:00:00.000Z"
                         }
                     ],
                     "state": {
@@ -675,6 +685,14 @@
                                 "eventStart": "2024-12-06T14:00:00Z",
                                 "eventEnd": "2025-01-31T07:00:00Z",
                                 "eventType": "EventFlag.Event_FigmentPass"
+                            },
+                            {
+                                "instanceId": "4tkjaot4scor6pujihbbetj9ui[2]0",
+                                "devName": "Juno Season 1 Pass",
+                                "eventName": "CalendarEvent_JunoSeason1Pass",
+                                "eventStart": "2024-12-10T05:00:00Z",
+                                "eventEnd": "2025-03-11T07:30:00Z",
+                                "eventType": "EventFlag.Event_JunoSeason1Pass"
                             }
                         ],
                         "seasonNumber": 33,
@@ -693,9 +711,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2024-12-10T12:03:01.505Z"
+            "cacheExpire": "2024-12-10T12:28:36.478Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2024-12-10T10:22:15.265Z"
+    "currentTime": "2024-12-10T10:45:01.202Z"
 }
