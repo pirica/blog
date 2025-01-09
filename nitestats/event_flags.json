@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2025-01-09T17:36:20.338Z",
+                    "validFrom": "2025-01-09T18:16:18.366Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-09T19:36:20.338Z"
+            "cacheExpire": "2025-01-09T20:16:18.366Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2025-01-09T17:36:20.338Z",
+                    "validFrom": "2025-01-09T18:16:18.366Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -130,12 +130,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-09T19:36:20.338Z"
+            "cacheExpire": "2025-01-09T20:16:18.366Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2025-01-09T17:36:20.338Z",
+                    "validFrom": "2025-01-09T18:16:18.366Z",
                     "activeEvents": [],
                     "state": {
                         "k": [
@@ -144,12 +144,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-09T19:36:20.338Z"
+            "cacheExpire": "2025-01-09T20:16:18.366Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2025-01-09T17:36:20.338Z",
+                    "validFrom": "2025-01-09T18:16:18.366Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -159,12 +159,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-09T19:36:20.338Z"
+            "cacheExpire": "2025-01-09T20:16:18.366Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2025-01-09T17:36:20.338Z",
+                    "validFrom": "2025-01-09T18:16:18.366Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -174,12 +174,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-09T19:36:20.338Z"
+            "cacheExpire": "2025-01-09T20:16:18.366Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2025-01-09T17:36:20.338Z",
+                    "validFrom": "2025-01-09T18:16:18.366Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -293,7 +293,7 @@
                         },
                         {
                             "eventType": "EventFlag.Event_Evergreen_DailyQuests",
-                            "activeUntil": "2025-02-21T07:00:00.000Z",
+                            "activeUntil": "2025-05-02T06:00:00.000Z",
                             "activeSince": "2024-12-01T07:00:00.000Z"
                         },
                         {
@@ -650,7 +650,7 @@
                                 "devName": "Event_Evergreen_DailyQuests",
                                 "eventName": "CalendarEvent_Evergreen_DailyQuests",
                                 "eventStart": "2024-12-01T07:00:00Z",
-                                "eventEnd": "2025-02-21T07:00:00Z",
+                                "eventEnd": "2025-05-02T06:00:00Z",
                                 "eventType": "EventFlag.Event_Evergreen_DailyQuests"
                             },
                             {
@@ -798,9 +798,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-09T19:36:20.338Z"
+            "cacheExpire": "2025-01-09T20:16:18.366Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2025-01-09T17:59:01.268Z"
+    "currentTime": "2025-01-09T18:32:40.272Z"
 }
