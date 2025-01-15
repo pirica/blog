@@ -124,9 +124,6 @@
     "Fort.Cosmetics": {
         "CosmeticDisabled_ErrorDescription": "This item is temporarily disabled."
     },
-    "FortSetting": {
-        "VoiceChat_VRR_ExpandedSettings_Description": "Sets scope of other players you wish to voice chat with. Turning on chat also turns on voice reporting.\\n\\n<strong>Everybody</>: You can hear everyone and can also talk to them by using a microphone.\\n\\n<strong>Friends and Teammates</>: You can hear friends and teammates and can also talk to them by using a microphone. Team size will vary depending on the experience, ranging from a couple of players to all participants in a game session. You can view the list of team members in the Sidebar.\\n\\n<strong>Friends Only</>: You can hear friends and can also talk to them by using a microphone.\\n\\n<strong>Off</>: Voice chat and voice reporting is off.\\n\\n<strong>About voice reporting</>\\nWhen voice chat is on, voice reporting stores voice chat audio on each participant's device on a rolling five-minute basis, which will be sent to Epic Games only if a participant reports a violation. Voice reporting is usually on, except in parties formed among friends where all players prefer voice reporting off. You can see if voice reporting is currently on or off in the Sidebar. Voice reporting is always on for players under 18.\\n\\nSee the voice reporting setting for more details and options."
-    },
     "ReportReasonDetails": {
         "CommunicationAbuseDetails": "If you have Voice Reporting On and would like to include an audio recording with your report, you can submit a voice report via the voice chat tab in the Sidebar. If you have Text Reporting On and would like to include your text chat transcripts with your report, you can submit a text chat report via the text chat window."
     }
