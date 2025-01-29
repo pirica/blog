@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2025-01-29T14:38:15.428Z",
+                    "validFrom": "2025-01-29T15:05:24.355Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,68 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-29T16:38:15.428Z"
+            "cacheExpire": "2025-01-29T17:05:24.355Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2025-01-29T14:38:15.428Z",
-                    "activeEvents": [],
-                    "state": {
-                        "region": {
-                            "NAE": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "NAW": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "NAC": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "EU": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "BR": {
-                                "eventFlagsForcedOff": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "ASIA": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "ME": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "OCE": {
-                                "eventFlagsForcedOff": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            }
-                        }
-                    }
-                },
-                {
-                    "validFrom": "2025-01-29T15:00:00.000Z",
+                    "validFrom": "2025-01-29T15:05:24.355Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -186,24 +130,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-29T16:38:15.428Z"
+            "cacheExpire": "2025-01-29T17:05:24.355Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2025-01-29T14:38:15.428Z",
+                    "validFrom": "2025-01-29T15:05:24.355Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2025-01-29T16:38:15.428Z"
+            "cacheExpire": "2025-01-29T17:05:24.355Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2025-01-29T14:38:15.428Z",
+                    "validFrom": "2025-01-29T15:05:24.355Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -213,12 +157,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-29T16:38:15.428Z"
+            "cacheExpire": "2025-01-29T17:05:24.355Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2025-01-29T14:38:15.428Z",
+                    "validFrom": "2025-01-29T15:05:24.355Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -228,12 +172,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-29T16:38:15.428Z"
+            "cacheExpire": "2025-01-29T17:05:24.355Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2025-01-29T14:38:15.428Z",
+                    "validFrom": "2025-01-29T15:05:24.355Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -481,11 +425,6 @@
                             "activeSince": "2025-01-23T00:00:00.000Z"
                         },
                         {
-                            "eventType": "EventFlag.Event_SparksS07_WeeklyQuests",
-                            "activeUntil": "2025-04-08T06:00:00.000Z",
-                            "activeSince": "2025-01-24T00:00:00.000Z"
-                        },
-                        {
                             "eventType": "EventFlag.Event_SparksSpotlight_S07_Icon01",
                             "activeUntil": "2025-01-31T00:00:00.000Z",
                             "activeSince": "2025-01-24T00:00:00.000Z"
@@ -503,6 +442,11 @@
                         {
                             "eventType": "PilgrimSong.worldismine",
                             "activeUntil": "2025-01-31T00:00:00.000Z",
+                            "activeSince": "2025-01-24T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_SparksS07_WeeklyQuests",
+                            "activeUntil": "2025-04-08T09:00:00.000Z",
                             "activeSince": "2025-01-24T00:00:00.000Z"
                         },
                         {
@@ -853,20 +797,20 @@
                                 "eventType": "EventFlag.Event_S33_BlondeJaw"
                             },
                             {
-                                "instanceId": "5cq0l0tbqeg2sgujlnp4r62ti2[2]0",
-                                "devName": "Event_Sparks_Season07_WeeklyQuests",
-                                "eventName": "CalendarEvent_SparksS07_WeeklyQuests",
-                                "eventStart": "2025-01-24T00:00:00Z",
-                                "eventEnd": "2025-04-08T06:00:00Z",
-                                "eventType": "EventFlag.Event_SparksS07_WeeklyQuests"
-                            },
-                            {
                                 "instanceId": "2p02op4gbq4t2nf206tbeugi15[2]0",
                                 "devName": "Event_SparksSpotlight_S07_Icon01",
                                 "eventName": "CalendarEvent_SparksSpotlight_S07_Icon01",
                                 "eventStart": "2025-01-24T00:00:00Z",
                                 "eventEnd": "2025-01-31T00:00:00Z",
                                 "eventType": "EventFlag.Event_SparksSpotlight_S07_Icon01"
+                            },
+                            {
+                                "instanceId": "5cq0l0tbqeg2sgujlnp4r62ti2[2]0",
+                                "devName": "Event_Sparks_Season07_WeeklyQuests",
+                                "eventName": "CalendarEvent_SparksS07_WeeklyQuests",
+                                "eventStart": "2025-01-24T00:00:00Z",
+                                "eventEnd": "2025-04-08T09:00:00Z",
+                                "eventType": "EventFlag.Event_SparksS07_WeeklyQuests"
                             }
                         ],
                         "seasonNumber": 33,
@@ -885,9 +829,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-29T16:38:15.428Z"
+            "cacheExpire": "2025-01-29T17:05:24.355Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2025-01-29T14:56:35.265Z"
+    "currentTime": "2025-01-29T15:20:55.430Z"
 }
