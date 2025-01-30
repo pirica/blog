@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2025-01-30T15:33:29.257Z",
+                    "validFrom": "2025-01-30T16:02:38.719Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,68 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-30T17:33:29.257Z"
+            "cacheExpire": "2025-01-30T18:02:38.719Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2025-01-30T15:33:29.257Z",
-                    "activeEvents": [],
-                    "state": {
-                        "region": {
-                            "NAE": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "NAW": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "NAC": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "EU": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "BR": {
-                                "eventFlagsForcedOff": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "ME": {
-                                "eventFlagsForcedOn": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "OCE": {
-                                "eventFlagsForcedOff": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
-                            "ASIA": {
-                                "eventFlagsForcedOff": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            }
-                        }
-                    }
-                },
-                {
-                    "validFrom": "2025-01-30T16:00:00.000Z",
+                    "validFrom": "2025-01-30T16:02:38.719Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -130,24 +74,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-30T17:33:29.257Z"
+            "cacheExpire": "2025-01-30T18:02:38.719Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2025-01-30T15:33:29.257Z",
+                    "validFrom": "2025-01-30T16:02:38.719Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2025-01-30T17:33:29.257Z"
+            "cacheExpire": "2025-01-30T18:02:38.719Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2025-01-30T15:33:29.257Z",
+                    "validFrom": "2025-01-30T16:02:38.719Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -157,12 +101,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-30T17:33:29.257Z"
+            "cacheExpire": "2025-01-30T18:02:38.719Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2025-01-30T15:33:29.257Z",
+                    "validFrom": "2025-01-30T16:02:38.719Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -172,12 +116,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-30T17:33:29.257Z"
+            "cacheExpire": "2025-01-30T18:02:38.719Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2025-01-30T15:33:29.257Z",
+                    "validFrom": "2025-01-30T16:02:38.719Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -250,11 +194,6 @@
                             "activeSince": "2024-12-06T14:00:00.000Z"
                         },
                         {
-                            "eventType": "EventFlag.Event_ReloadQuests_Ch06_MapDiscovery",
-                            "activeUntil": "2025-11-28T14:00:00.000Z",
-                            "activeSince": "2024-12-06T14:00:00.000Z"
-                        },
-                        {
                             "eventType": "EventFlag.Event_FigmentQuests_S01",
                             "activeUntil": "2025-01-31T09:00:00.000Z",
                             "activeSince": "2024-12-06T14:00:00.000Z"
@@ -262,6 +201,11 @@
                         {
                             "eventType": "EventFlag.Event_FigmentPass",
                             "activeUntil": "2025-01-31T07:00:00.000Z",
+                            "activeSince": "2024-12-06T14:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_ReloadQuests_Ch06_MapDiscovery",
+                            "activeUntil": "2025-11-28T14:00:00.000Z",
                             "activeSince": "2024-12-06T14:00:00.000Z"
                         },
                         {
@@ -709,14 +653,6 @@
                                 "eventType": "EventFlag.Event_FigmentQuests_Evergreen"
                             },
                             {
-                                "instanceId": "7f2r4flm3237k352umm2df7k5s[2]0",
-                                "devName": "Event_ReloadQuests_Ch06_MapDiscovery",
-                                "eventName": "CalendarEvent_ReloadQuests_Ch06_MapDiscovery",
-                                "eventStart": "2024-12-06T14:00:00Z",
-                                "eventEnd": "2025-11-28T14:00:00Z",
-                                "eventType": "EventFlag.Event_ReloadQuests_Ch06_MapDiscovery"
-                            },
-                            {
                                 "instanceId": "0231bfr3ku5hg8r6ouoikoqa7h[2]0",
                                 "devName": "Event_FigmentQuests_S01",
                                 "eventName": "CalendarEvent_FigmentQuests_S01",
@@ -731,6 +667,14 @@
                                 "eventStart": "2024-12-06T14:00:00Z",
                                 "eventEnd": "2025-01-31T07:00:00Z",
                                 "eventType": "EventFlag.Event_FigmentPass"
+                            },
+                            {
+                                "instanceId": "7f2r4flm3237k352umm2df7k5s[2]0",
+                                "devName": "Event_ReloadQuests_Ch06_MapDiscovery",
+                                "eventName": "CalendarEvent_ReloadQuests_Ch06_MapDiscovery",
+                                "eventStart": "2024-12-06T14:00:00Z",
+                                "eventEnd": "2025-11-28T14:00:00Z",
+                                "eventType": "EventFlag.Event_ReloadQuests_Ch06_MapDiscovery"
                             },
                             {
                                 "instanceId": "4tkjaot4scor6pujihbbetj9ui[2]0",
@@ -829,9 +773,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-01-30T17:33:29.257Z"
+            "cacheExpire": "2025-01-30T18:02:38.719Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2025-01-30T15:59:10.397Z"
+    "currentTime": "2025-01-30T16:29:10.288Z"
 }
