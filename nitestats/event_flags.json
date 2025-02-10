@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2025-02-10T04:31:52.338Z",
+                    "validFrom": "2025-02-10T05:00:17.232Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,21 +13,15 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-02-10T06:31:52.338Z"
+            "cacheExpire": "2025-02-10T07:00:17.232Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2025-02-10T04:31:52.338Z",
+                    "validFrom": "2025-02-10T05:00:17.232Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
-                            "OCE": {
-                                "eventFlagsForcedOff": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
                             "ASIA": {
                                 "eventFlagsForcedOff": [
                                     "Playlist_NoBuildBR_Habanero_Solo",
@@ -66,6 +60,12 @@
                             },
                             "BR": {
                                 "eventFlagsForcedOff": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
+                            },
+                            "OCE": {
+                                "eventFlagsForcedOn": [
                                     "Playlist_NoBuildBR_Habanero_Solo",
                                     "Playlist_NoBuildBR_Habanero_Squad"
                                 ]
@@ -74,16 +74,10 @@
                     }
                 },
                 {
-                    "validFrom": "2025-02-10T05:00:00.000Z",
+                    "validFrom": "2025-02-10T07:00:00.000Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
-                            "ASIA": {
-                                "eventFlagsForcedOff": [
-                                    "Playlist_NoBuildBR_Habanero_Solo",
-                                    "Playlist_NoBuildBR_Habanero_Squad"
-                                ]
-                            },
                             "ME": {
                                 "eventFlagsForcedOff": [
                                     "Playlist_NoBuildBR_Habanero_Solo",
@@ -125,29 +119,45 @@
                                     "Playlist_NoBuildBR_Habanero_Solo",
                                     "Playlist_NoBuildBR_Habanero_Squad"
                                 ]
+                            },
+                            "ASIA": {
+                                "eventFlagsForcedOn": [
+                                    "Playlist_NoBuildBR_Habanero_Solo",
+                                    "Playlist_NoBuildBR_Habanero_Squad"
+                                ]
                             }
                         }
                     }
                 }
             ],
-            "cacheExpire": "2025-02-10T06:31:52.338Z"
+            "cacheExpire": "2025-02-10T07:00:17.232Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2025-02-10T04:31:52.338Z",
+                    "validFrom": "2025-02-10T05:00:17.232Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
+                },
+                {
+                    "validFrom": "2025-02-10T07:00:00.000Z",
+                    "activeEvents": [],
+                    "state": {
+                        "k": [
+                            "53A406F15B4250D281B5A3664B6530E9:T/g188KteyL89/E/pKHLGKb21nzG5BboHB22Pzh/OXk=",
+                            "3680306271445984B14C55F541805805:q8fDGIw6oD3NBh2qxjPcatTnsYJsREUK5M8U3AGQOGk="
+                        ]
+                    }
                 }
             ],
-            "cacheExpire": "2025-02-10T06:31:52.338Z"
+            "cacheExpire": "2025-02-10T07:00:17.232Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2025-02-10T04:31:52.338Z",
+                    "validFrom": "2025-02-10T05:00:17.232Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -157,12 +167,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-02-10T06:31:52.338Z"
+            "cacheExpire": "2025-02-10T07:00:17.232Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2025-02-10T04:31:52.338Z",
+                    "validFrom": "2025-02-10T05:00:17.232Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -172,12 +182,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-02-10T06:31:52.338Z"
+            "cacheExpire": "2025-02-10T07:00:17.232Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2025-02-10T04:31:52.338Z",
+                    "validFrom": "2025-02-10T05:00:17.232Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -795,9 +805,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-02-10T06:31:52.338Z"
+            "cacheExpire": "2025-02-10T07:00:17.232Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2025-02-10T04:55:50.252Z"
+    "currentTime": "2025-02-10T05:19:01.207Z"
 }
