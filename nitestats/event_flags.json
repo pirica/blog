@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2025-03-11T07:37:30.710Z",
+                    "validFrom": "2025-03-11T08:10:16.766Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-11T09:37:30.710Z"
+            "cacheExpire": "2025-03-11T10:10:16.766Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2025-03-11T07:37:30.710Z",
+                    "validFrom": "2025-03-11T08:10:16.766Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -94,33 +94,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-11T09:37:30.710Z"
+            "cacheExpire": "2025-03-11T10:10:16.766Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2025-03-11T07:37:30.710Z",
-                    "activeEvents": [],
-                    "state": {
-                        "k": [
-                            "ECCFC84190935DAEEC56157511C55A47:NnWXLeoDrI8IkPFmdv+N00SdD+PvGd72v9hNuYYyh6c="
-                        ]
-                    }
-                },
-                {
-                    "validFrom": "2025-03-11T08:00:00.000Z",
+                    "validFrom": "2025-03-11T08:10:16.766Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2025-03-11T09:37:30.710Z"
+            "cacheExpire": "2025-03-11T10:10:16.766Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2025-03-11T07:37:30.710Z",
+                    "validFrom": "2025-03-11T08:10:16.766Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -130,12 +121,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-11T09:37:30.710Z"
+            "cacheExpire": "2025-03-11T10:10:16.766Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2025-03-11T07:37:30.710Z",
+                    "validFrom": "2025-03-11T08:10:16.766Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -145,12 +136,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-11T09:37:30.710Z"
+            "cacheExpire": "2025-03-11T10:10:16.766Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2025-03-11T07:37:30.710Z",
+                    "validFrom": "2025-03-11T08:10:16.766Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -423,6 +414,11 @@
                             "activeSince": "2025-03-07T14:00:00.000Z"
                         },
                         {
+                            "eventType": "EventFlag.Event_S34_Bling",
+                            "activeUntil": "2025-03-31T13:00:00.000Z",
+                            "activeSince": "2025-03-10T13:00:00.000Z"
+                        },
+                        {
                             "eventType": "PilgrimSong.luxaeterna",
                             "activeUntil": "2025-03-12T00:00:00.000Z",
                             "activeSince": "2025-03-11T00:00:00.000Z"
@@ -571,6 +567,11 @@
                             "eventType": "PilgrimSong.daisy",
                             "activeUntil": "2025-03-12T00:00:00.000Z",
                             "activeSince": "2025-03-11T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_JunoSeason2Pass",
+                            "activeUntil": "2025-05-02T09:00:00.000Z",
+                            "activeSince": "2025-03-11T08:00:00.000Z"
                         }
                     ],
                     "state": {
@@ -768,6 +769,22 @@
                                 "eventStart": "2025-03-07T14:00:00Z",
                                 "eventEnd": "2025-03-25T13:00:00Z",
                                 "eventType": "EventFlag.Event_S34_BaronEscalation"
+                            },
+                            {
+                                "instanceId": "6btl2vvc8df52hscotddn9229g[2]0",
+                                "devName": "Event_S34_Bling",
+                                "eventName": "CalendarEvent_S34_Bling",
+                                "eventStart": "2025-03-10T13:00:00Z",
+                                "eventEnd": "2025-03-31T13:00:00Z",
+                                "eventType": "EventFlag.Event_S34_Bling"
+                            },
+                            {
+                                "instanceId": "1pdo3jl2mee1rtbjrfnp3l6lbv[2]0",
+                                "devName": "Juno Season 2 Pass",
+                                "eventName": "CalendarEvent_JunoSeason2Pass",
+                                "eventStart": "2025-03-11T08:00:00Z",
+                                "eventEnd": "2025-05-02T09:00:00Z",
+                                "eventType": "EventFlag.Event_JunoSeason2Pass"
                             }
                         ],
                         "seasonNumber": 34,
@@ -786,9 +803,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-11T09:37:30.710Z"
+            "cacheExpire": "2025-03-11T10:10:16.766Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2025-03-11T07:56:40.220Z"
+    "currentTime": "2025-03-11T08:28:15.282Z"
 }
