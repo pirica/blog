@@ -49,6 +49,30 @@
                 "raw": 2059356,
                 "formatted": "2.0 MB"
             }
+        },
+        {
+            "name": "pakchunk1014-WindowsClient.utoc",
+            "key": "0xC5E1D05A47CEB44709F036CAB1C3487DEDE0A5F256B99110BA3084213499794C",
+            "guid": "D0ADFB1558682C0FA5B5FAA4858201CD",
+            "keychain": "D0ADFB1558682C0FA5B5FAA4858201CD:xeHQWkfOtEcJ8DbKscNIfe3gpfJWuZEQujCEITSZeUw=",
+            "fileCount": 374,
+            "hasHighResTextures": true,
+            "size": {
+                "raw": 21618566,
+                "formatted": "20.6 MB"
+            }
+        },
+        {
+            "name": "pakchunk1016-WindowsClient.utoc",
+            "key": "0xE285FD5F01989392A1C451C75F8B12F83887211ECBDA8AB9341A7EF87E342DD1",
+            "guid": "DFF3851DC0536215B6DBB4086D869D16",
+            "keychain": "DFF3851DC0536215B6DBB4086D869D16:4oX9XwGYk5KhxFHHX4sS+DiHIR7L2oq5NBp++H40LdE=",
+            "fileCount": 78,
+            "hasHighResTextures": true,
+            "size": {
+                "raw": 2439766,
+                "formatted": "2.3 MB"
+            }
         }
     ],
     "unloaded": [
@@ -153,16 +177,6 @@
             }
         },
         {
-            "name": "pakchunk1014-WindowsClient.utoc",
-            "guid": "D0ADFB1558682C0FA5B5FAA4858201CD",
-            "fileCount": 374,
-            "hasHighResTextures": true,
-            "size": {
-                "raw": 21618566,
-                "formatted": "20.6 MB"
-            }
-        },
-        {
             "name": "pakchunk1015-WindowsClient.utoc",
             "guid": "DF3F349661781053C6C652B228CAE3E4",
             "fileCount": 50,
@@ -170,16 +184,6 @@
             "size": {
                 "raw": 1725430,
                 "formatted": "1.6 MB"
-            }
-        },
-        {
-            "name": "pakchunk1016-WindowsClient.utoc",
-            "guid": "DFF3851DC0536215B6DBB4086D869D16",
-            "fileCount": 78,
-            "hasHighResTextures": true,
-            "size": {
-                "raw": 2439766,
-                "formatted": "2.3 MB"
             }
         }
     ]
