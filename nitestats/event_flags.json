@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2025-03-13T13:08:15.996Z",
+                    "validFrom": "2025-03-13T13:22:44.232Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-13T15:08:15.996Z"
+            "cacheExpire": "2025-03-13T15:22:44.232Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2025-03-13T13:08:15.996Z",
+                    "validFrom": "2025-03-13T13:22:44.232Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -168,24 +168,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-13T15:08:15.996Z"
+            "cacheExpire": "2025-03-13T15:22:44.232Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2025-03-13T13:08:15.996Z",
+                    "validFrom": "2025-03-13T13:22:44.232Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2025-03-13T15:08:15.996Z"
+            "cacheExpire": "2025-03-13T15:22:44.232Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2025-03-13T13:08:15.996Z",
+                    "validFrom": "2025-03-13T13:22:44.232Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -195,12 +195,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-13T15:08:15.996Z"
+            "cacheExpire": "2025-03-13T15:22:44.232Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2025-03-13T13:08:15.996Z",
+                    "validFrom": "2025-03-13T13:22:44.232Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -210,12 +210,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-13T15:08:15.996Z"
+            "cacheExpire": "2025-03-13T15:22:44.232Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2025-03-13T13:08:15.996Z",
+                    "validFrom": "2025-03-13T13:22:44.232Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -383,11 +383,6 @@
                             "activeSince": "2025-01-30T14:00:00.000Z"
                         },
                         {
-                            "eventType": "EventFlag.Event_FigmentPassS02",
-                            "activeUntil": "2025-03-25T09:00:00.000Z",
-                            "activeSince": "2025-01-31T10:00:00.000Z"
-                        },
-                        {
                             "eventType": "EventFlag.Event_ReloadQuests_Boost_R01",
                             "activeUntil": "2025-04-15T13:00:00.000Z",
                             "activeSince": "2025-02-11T14:00:00.000Z"
@@ -453,19 +448,9 @@
                             "activeSince": "2025-03-07T14:00:00.000Z"
                         },
                         {
-                            "eventType": "EventFlag.Event_S34_Bling",
-                            "activeUntil": "2025-03-31T13:00:00.000Z",
-                            "activeSince": "2025-03-10T13:00:00.000Z"
-                        },
-                        {
                             "eventType": "EventFlag.Event_JunoSeason2Pass",
                             "activeUntil": "2025-05-02T09:00:00.000Z",
                             "activeSince": "2025-03-11T08:00:00.000Z"
-                        },
-                        {
-                            "eventType": "EventFlag.Event_S34_Grant3410NarrativeLoadingScreen",
-                            "activeUntil": "2025-03-18T13:00:00.000Z",
-                            "activeSince": "2025-03-11T13:00:00.000Z"
                         },
                         {
                             "eventType": "PilgrimSong.luxaeterna",
@@ -791,14 +776,6 @@
                                 "eventType": "EventFlag.Event_FigmentQuests_S02"
                             },
                             {
-                                "instanceId": "5g8afhobk01depl7dpvakk3tq4[2]0",
-                                "devName": "Figment Pass S02",
-                                "eventName": "CalendarEvent_FigmentPassS02",
-                                "eventStart": "2025-01-31T10:00:00Z",
-                                "eventEnd": "2025-03-25T09:00:00Z",
-                                "eventType": "EventFlag.Event_FigmentPassS02"
-                            },
-                            {
                                 "instanceId": "6jij6i7pco95gisioabgbi6ke0[2]0",
                                 "devName": "Event_ReloadQuests_Boost_R01",
                                 "eventName": "CalendarEvent_ReloadQuests_Boost_R01",
@@ -855,28 +832,12 @@
                                 "eventType": "EventFlag.Event_S34_BaronEscalation"
                             },
                             {
-                                "instanceId": "6btl2vvc8df52hscotddn9229g[2]0",
-                                "devName": "Event_S34_Bling",
-                                "eventName": "CalendarEvent_S34_Bling",
-                                "eventStart": "2025-03-10T13:00:00Z",
-                                "eventEnd": "2025-03-31T13:00:00Z",
-                                "eventType": "EventFlag.Event_S34_Bling"
-                            },
-                            {
                                 "instanceId": "1pdo3jl2mee1rtbjrfnp3l6lbv[2]0",
                                 "devName": "Juno Season 2 Pass",
                                 "eventName": "CalendarEvent_JunoSeason2Pass",
                                 "eventStart": "2025-03-11T08:00:00Z",
                                 "eventEnd": "2025-05-02T09:00:00Z",
                                 "eventType": "EventFlag.Event_JunoSeason2Pass"
-                            },
-                            {
-                                "instanceId": "006lmu0d0hl2nhpuocnmb7n9lq[2]0",
-                                "devName": "Event_S34_Grant3410NarrativeLoadingScreen",
-                                "eventName": "CalendarEvent_S34_Grant3410NarrativeLoadingScreen",
-                                "eventStart": "2025-03-11T13:00:00Z",
-                                "eventEnd": "2025-03-18T13:00:00Z",
-                                "eventType": "EventFlag.Event_S34_Grant3410NarrativeLoadingScreen"
                             }
                         ],
                         "seasonNumber": 34,
@@ -895,9 +856,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-03-13T15:08:15.996Z"
+            "cacheExpire": "2025-03-13T15:22:44.232Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2025-03-13T13:28:45.652Z"
+    "currentTime": "2025-03-13T13:43:06.086Z"
 }
