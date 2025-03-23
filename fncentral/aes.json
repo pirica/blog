@@ -99,6 +99,18 @@
             }
         },
         {
+            "name": "pakchunk1010-WindowsClient.utoc",
+            "key": "0xF54DFDBC7F97CEF20E877E966377C177F8F79F9DD7446BE8402957A090EB560F",
+            "guid": "97DDC2D8500F9A216A154738C39F123E",
+            "keychain": "97DDC2D8500F9A216A154738C39F123E:9U39vH+XzvIOh36WY3fBd/j3n53XRGvoQClXoJDrVg8=",
+            "fileCount": 24,
+            "hasHighResTextures": false,
+            "size": {
+                "raw": 1170886,
+                "formatted": "1.1 MB"
+            }
+        },
+        {
             "name": "pakchunk1011-WindowsClient.utoc",
             "key": "0xAF8A3168B3613C397BD7EE67C5AC1C924C114C3FB2E82CD3F13864943A9FBF1C",
             "guid": "B0B047843D36FE23C847361C6F23BD79",
@@ -108,6 +120,18 @@
             "size": {
                 "raw": 9414596,
                 "formatted": "9.0 MB"
+            }
+        },
+        {
+            "name": "pakchunk1012-WindowsClient.utoc",
+            "key": "0x6CDC2BEF5766087939B2798260FB666767385B1A436365D23DEFED5FD29B075E",
+            "guid": "B8B2DA73DBEC8406A7EA30BE9B63E356",
+            "keychain": "B8B2DA73DBEC8406A7EA30BE9B63E356:bNwr71dmCHk5snmCYPtmZ2c4WxpDY2XSPe/tX9KbB14=",
+            "fileCount": 119,
+            "hasHighResTextures": true,
+            "size": {
+                "raw": 7650500,
+                "formatted": "7.3 MB"
             }
         },
         {
@@ -178,26 +202,6 @@
             "size": {
                 "raw": 734628,
                 "formatted": "717.4 KB"
-            }
-        },
-        {
-            "name": "pakchunk1010-WindowsClient.utoc",
-            "guid": "97DDC2D8500F9A216A154738C39F123E",
-            "fileCount": 24,
-            "hasHighResTextures": false,
-            "size": {
-                "raw": 1170886,
-                "formatted": "1.1 MB"
-            }
-        },
-        {
-            "name": "pakchunk1012-WindowsClient.utoc",
-            "guid": "B8B2DA73DBEC8406A7EA30BE9B63E356",
-            "fileCount": 119,
-            "hasHighResTextures": true,
-            "size": {
-                "raw": 7650500,
-                "formatted": "7.3 MB"
             }
         }
     ]
