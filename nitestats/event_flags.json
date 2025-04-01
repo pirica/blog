@@ -3,7 +3,7 @@
         "standalone-store": {
             "states": [
                 {
-                    "validFrom": "2025-04-01T07:37:33.573Z",
+                    "validFrom": "2025-04-01T08:13:02.536Z",
                     "activeEvents": [],
                     "state": {
                         "activePurchaseLimitingEventIds": [],
@@ -13,12 +13,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-04-01T09:37:33.573Z"
+            "cacheExpire": "2025-04-01T10:13:02.536Z"
         },
         "client-matchmaking": {
             "states": [
                 {
-                    "validFrom": "2025-04-01T07:37:33.573Z",
+                    "validFrom": "2025-04-01T08:13:02.536Z",
                     "activeEvents": [],
                     "state": {
                         "region": {
@@ -74,24 +74,24 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-04-01T09:37:33.573Z"
+            "cacheExpire": "2025-04-01T10:13:02.536Z"
         },
         "tk": {
             "states": [
                 {
-                    "validFrom": "2025-04-01T07:37:33.573Z",
+                    "validFrom": "2025-04-01T08:13:02.536Z",
                     "activeEvents": [],
                     "state": {
                         "k": []
                     }
                 }
             ],
-            "cacheExpire": "2025-04-01T09:37:33.573Z"
+            "cacheExpire": "2025-04-01T10:13:02.536Z"
         },
         "featured-islands": {
             "states": [
                 {
-                    "validFrom": "2025-04-01T07:37:33.573Z",
+                    "validFrom": "2025-04-01T08:13:02.536Z",
                     "activeEvents": [],
                     "state": {
                         "islandCodes": [],
@@ -101,12 +101,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-04-01T09:37:33.573Z"
+            "cacheExpire": "2025-04-01T10:13:02.536Z"
         },
         "community-votes": {
             "states": [
                 {
-                    "validFrom": "2025-04-01T07:37:33.573Z",
+                    "validFrom": "2025-04-01T08:13:02.536Z",
                     "activeEvents": [],
                     "state": {
                         "electionId": "",
@@ -116,12 +116,12 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-04-01T09:37:33.573Z"
+            "cacheExpire": "2025-04-01T10:13:02.536Z"
         },
         "client-events": {
             "states": [
                 {
-                    "validFrom": "2025-04-01T07:37:33.573Z",
+                    "validFrom": "2025-04-01T08:13:02.536Z",
                     "activeEvents": [
                         {
                             "eventType": "EventFlag.Event_DelMar_Season01_Dailies",
@@ -607,6 +607,11 @@
                             "eventType": "PilgrimSong.allthegoodgirls",
                             "activeUntil": "2025-04-02T00:00:00.000Z",
                             "activeSince": "2025-04-01T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Event_S34_LTE_Quests",
+                            "activeUntil": "2025-04-02T13:00:00.000Z",
+                            "activeSince": "2025-04-01T08:00:00.000Z"
                         }
                     ],
                     "state": {
@@ -836,6 +841,14 @@
                                 "eventStart": "2025-03-28T00:00:00Z",
                                 "eventEnd": "2025-04-04T00:00:00Z",
                                 "eventType": "EventFlag.Event_SparksSpotlight_S07_Spot04"
+                            },
+                            {
+                                "instanceId": "177jknm7ravl6ujqc8fqs2stje[2]0",
+                                "devName": "Event_S34_LTE_Quests",
+                                "eventName": "CalendarEvent_S34_LTE_Quests",
+                                "eventStart": "2025-04-01T08:00:00Z",
+                                "eventEnd": "2025-04-02T13:00:00Z",
+                                "eventType": "EventFlag.Event_S34_LTE_Quests"
                             }
                         ],
                         "seasonNumber": 34,
@@ -854,9 +867,9 @@
                     }
                 }
             ],
-            "cacheExpire": "2025-04-01T09:37:33.573Z"
+            "cacheExpire": "2025-04-01T10:13:02.536Z"
         }
     },
     "cacheIntervalMins": 15,
-    "currentTime": "2025-04-01T07:56:25.744Z"
+    "currentTime": "2025-04-01T08:29:55.721Z"
 }
