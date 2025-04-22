@@ -1,18 +1,21 @@
 {
     "version": "34.40",
     "mainKey": "0xC6C7EA84133F59CFA9327F7B8F0385224CDAA11C0EC4B21DC9B6337D98044BB2",
-    "dynamicKeys": [],
-    "unloaded": [
+    "dynamicKeys": [
         {
             "name": "pakchunk1000-WindowsClient.utoc",
+            "key": "0xBFD32CC35F55840F44A894DCC152CB091BBCE5EE68FCD28FC388D084F4A1BFA1",
             "guid": "12FE0A05F765391B9A3B98599D32F8EE",
+            "keychain": "12FE0A05F765391B9A3B98599D32F8EE:v9Msw19VhA9EqJTcwVLLCRu85e5o/NKPw4jQhPShv6E=",
             "fileCount": 195,
             "hasHighResTextures": true,
             "size": {
                 "raw": 4978196,
                 "formatted": "4.7 MB"
             }
-        },
+        }
+    ],
+    "unloaded": [
         {
             "name": "pakchunk1001-WindowsClient.utoc",
             "guid": "14DBE38E6524D47A0E5B711AA2FC9A11",
