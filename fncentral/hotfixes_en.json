@@ -116,15 +116,6 @@
         "23EB41B545EB619B47A63089F9DDEE98": "Breakout X Body Color",
         "19299AC34108CAC1D11415A23839A473": "The FC Bayern Decal is not included with purchase of the Fennec ZR-F Bundle.",
         "8DF3C7DF41B7565BA86B1EA80E831872": "LaMelo Ball x LF x Puma Bundle",
-        "0606CC1341231DFEA88A458BFE4F43AB": "Defeat 10 Spires or Spire Summoned Enemies",
-        "B5F977FA44D39D13F5E1EC90E696F3B4": "Defeat 10 Spires or Spire Summoned Enemies",
-        "DB4C28D74FCAEF801E955E895845B494": "The Spires are summoning enemies from a corrupted realm. Not good. Take down Demon Guards, Spire Titans, or Spires!",
-        "D3F794564B6B47B7036EE29D545525C8": "Take down Heavy Demon Guards and Spires to gather this unearthly material. It's got to have some use...",
-        "F745EDBD43D5E73A98704F8D85FE2F83": "What\u2019s this strange power emanating from the new weapon? Maybe Jones knows more.",
-        "5FAA908B445134A106656B8C0D857685": "Intel says there's a strain of super-strong Spires out there. You know what to do.",
-        "0D8EF0D248BA7A3F870B72B3D84D1AD3": "We'll turn those spikey Spires' corruption against them! Vengeance is a dish best served with a devastating weapon. - Vengeance Jones",
-        "6BC7E07840D91CCF6ECDB1A976FC1C57": "Defeat a Red Spire using the new Weapon",
-        "83A1CA534BCD827B179163AFBB040852": "Defeat a Red Spire using the new Weapon",
         "3E6A70224EC71D2FCC74D2894F0399A0": "Hot-headed, heart throb of the Fantastic Four aka the Human Torch.",
         "3CF108524177F76186783E8813E5FF42": "Rove",
         "A033B32749E5D94CF0917B9BC0F57B70": "Celebrate 4 more weeks of Blitz!",
@@ -138,8 +129,6 @@
         "97F186F44CDD3338B042B7977B7EA566": "Serving top shelf hospitality and heart breaks.",
         "4C968F0F460B02CD603CA0A3195A33B7": "Moxxi's Lip Service",
         "FE1779D146D6EA5357ACFB9D4398BD80": "When I'm good I'm very good...",
-        "920534994D2D1E35E260BE99E9F8B492": "Includes customizable decals! Decals in this bundle are restricted to the McLaren 570S car body. This car will fill the Sports Car slot in relevant Fortnite experiences.",
-        "C72F29664D105F96D01DBA9348408C5D": "Whatcha got?",
         "EE437F3645EB38A564FC3298893A0ACA": "Spider's Eye",
         "8ECBE39848D38514DECFA694A4B37D4B": "Bass-Breaking Bladeboard",
         "20C5CF7049029EDFF0DF1CA2816062EC": "Summer of the Heart",
@@ -281,7 +270,14 @@
         "991E8F644E2A4291470E8B92F91275B4": "Play \\\"Strobe - Radio Edit\\\" and earn 2 or more Stars",
         "9BB701BA45C6C8706A6395962B045B3E": "Deadmau5",
         "33262037450E838D72AC5DA921862EE7": "Play \\\"Strobe - Radio Edit\\\" and earn 2 or more Stars",
-        "56AF9FD54C1521E22A0EBA80E48042C4": "Play \\\"Strobe - Radio Edit\\\" and earn 2 or more Stars"
+        "56AF9FD54C1521E22A0EBA80E48042C4": "Play \\\"Strobe - Radio Edit\\\" and earn 2 or more Stars",
+        "5FA1D5644701FCC403EEAF": "Swamp Slippies",
+        "4C4CF50444CABED1021EF4A4DBB2BE04": "Don't Mess With Patch",
+        "B0BA678840CBD3016B60A49D000DFC56": "Rescue Board",
+        "33DEB32A4BD525ADC26EBAAA2211A900": "Rescue Board",
+        "2E2AFE194706DA1D119040B48B7FB52E\u00a0": "Rescue Board",
+        "7F4A1C5F4EADF0C78AE6DE8CF801873D": "Riptide Rescue Board",
+        "2DE608844A0FCBCCE21308A8175BC4EB": "Plasma, refined and sharpened."
     },
     "FortSetting": {
         "GamepadAutoRun_Description": "Turns controller auto-run on/off. When on, double clicking the Left Stick will make you automatically run forward without needing to hold the Left Stick forward.",
@@ -295,5 +291,16 @@
     "IslandTagInternal": {
         "recommendations_info": "This island is being recommended to you based on your played games and your favorited Collections, Islands, and Creators. It considers your play history and the play history of other opted-in users to recommend content to you. If you want to, you can opt-out of receiving personalized recommendations in Settings by modifying the \u201cAllow Personalization of Island Recommendations\u201d setting under Account and Privacy->Gameplay Privacy. If you opt-out, you will continue to see recommendations, but they will not be personalized. If you want to, you can favorite Islands, Creators, and Collections in Discover and unfavorite Islands, Creators, and Collections in your Library.",
         "interests_info": "This island is being recommended to you because you asked to see more games like your favorited Collections, Islands, and Creators. It does not consider your play history. If you want to, you can favorite Islands, Creators, and Collections in Discover and unfavorite Islands, Creators, and Collections in your Library."
+    },
+    "CosmeticsGatingBlueprintLibrary": {
+        "SingularRestrictionFormat": "This item can only be used in experiences rated {Rating}.",
+        "SingularRestrictionFormat_OrAbove": "This item can only be used in experiences rated {Rating} or above.",
+        "SingularRestrictionFormat_OrBelow": "This item can only be used in experiences rated {Rating} or below."
+    },
+    "SeasonPassRewardVM": {
+        "Status_FreePlayerReachLevelToGrant": "Reach level 100 to get this after August 26 OR get the Battle Pass to instantly Unlock."
+    },
+    "Spray_TalonPane3": {
+        "6437BCE5492102030E62358F1BC16724": "Debuggin'"
     }
 }
