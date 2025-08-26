@@ -233,26 +233,6 @@
         "6421B2984EBE2C36EA40C7A506696D08": "deadmau5 Boost",
         "6068D8CE489A97D11DC7DD8EE9B45EDE": "deadmau5 Rave Wheel",
         "50F904824FA4E471C848FA9BBEF97C3B": "deadmau5 Loop Wheel",
-        "1C5151C64DB133AA20AC1593160E0AB9": "Play \\\"Ghosts 'n' Stuff\\\" and earn 2 or more Stars",
-        "5977522E46EA28AFE8B4FB9AEF68CFD0": "Play \\\"Ghosts 'n' Stuff\\\" and earn 2 or more Stars",
-        "2274E91A480B00B1CFA87EA4A16294CC": "Deadmau5 ft. Rob Swire",
-        "4DBC90A640C52E5A53DB0EBBE8B071DC": "Play \\\"Ghosts 'n' Stuff\\\" and earn 2 or more Stars",
-        "E2D6CB864C98FE91DF0288A51E3F993B": "Play \\\"Ghosts 'n' Stuff\\\" and earn 2 or more Stars",
-        "9E5F30C44B24860223B99B80F32AFF99": "Play \\\"Gangnam Style\\\" and earn 2 or more Stars",
-        "86BDCEF34472B0EE083B329C9ECF7243": "Play \\\"Gangnam Style\\\" and earn 2 or more Stars",
-        "0A5A795E41A5951760693C9D46130391": "PSY",
-        "0E2AA68E4494705032BEFFBFF80066AD": "Play \\\"Gangnam Style\\\" and earn 2 or more Stars",
-        "3D15A13D4AA5BEB2CEF0C588D6E85D01": "Play \\\"Gangnam Style\\\" and earn 2 or more Stars",
-        "D24163164C4D3BDDCB465EA682C2D171": "Play \\\"Roses (Imanbek Remix)\\\" and earn 2 or more Stars",
-        "6393F75A47323E8357ECC7BBAC2A37BE": "Play \\\"Roses (Imanbek Remix)\\\" and earn 2 or more Stars",
-        "1D7B99D54A9349D388A554AB56C93030": "SAINt JHN",
-        "4898EE4F45EC7C3520D172BE9136B08F": "Play \\\"Roses (Imanbek Remix)\\\" and earn 2 or more Stars",
-        "38E63C96410771441F4299AB63617221": "Play \\\"Roses (Imanbek Remix)\\\" and earn 2 or more Stars",
-        "8B489FAA4B19A5965B85F4B7C8AC1CC3": "Play \\\"Strobe - Radio Edit\\\" and earn 2 or more Stars",
-        "991E8F644E2A4291470E8B92F91275B4": "Play \\\"Strobe - Radio Edit\\\" and earn 2 or more Stars",
-        "9BB701BA45C6C8706A6395962B045B3E": "Deadmau5",
-        "33262037450E838D72AC5DA921862EE7": "Play \\\"Strobe - Radio Edit\\\" and earn 2 or more Stars",
-        "56AF9FD54C1521E22A0EBA80E48042C4": "Play \\\"Strobe - Radio Edit\\\" and earn 2 or more Stars",
         "5FA1D5644701FCC403EEAF98723B3361": "Swamp Slippies",
         "4C4CF50444CABED1021EF4A4DBB2BE04": "Don't Mess With Patch",
         "B0BA678840CBD3016B60A49D000DFC56": "Rescue Board",
@@ -260,9 +240,12 @@
         "2E2AFE194706DA1D119040B48B7FB52E": "Rescue Board",
         "7F4A1C5F4EADF0C78AE6DE8CF801873D": "Riptide Rescue Board",
         "2DE608844A0FCBCCE21308A8175BC4EB": "Plasma, refined and sharpened.",
-        "E35196D446A5BB6FCC8EED8C0A2A26DD": "Riptide Rescue Board",
         "01FF96DA43F387E50E3CC9A0296D7A2D": "Nike AVA Rover 'Alt'",
-        "2830AD4241DE41CA776A0DB15B4DC465": "Wrap changes styles based on currently equipped Power Rangers Outfit! Styles maintain base ranger color."
+        "2830AD4241DE41CA776A0DB15B4DC465": "Wrap changes styles based on currently equipped Power Rangers Outfit! Styles maintain base ranger color.",
+        "E326CD7D49EDCABD5115A0AFCE6058C1": "In public Battle Stage matches you vote for a song from the Featured Rotation. Songs with more votes are more likely to be randomly selected.\u00a0",
+        "5AEDA33D448EC03F42C8B48EE68E29BC": "Pick a part: Vocals, Bass, Lead, or Drums. Have a compatible guitar peripheral? Choose Pro Lead or Pro Bass.",
+        "1266BD3A44A7B66E9F473EA9E3D4542F": "Customize the look of your band when playing \\\"No Fill\\\" by favoriting Outfits, Back Bling, Instruments, and Kicks in your locker.",
+        "D5E5C7D9451C49E5EDACADBD4FA1183D": "Play all \\\"glowing notes\\\" in a sequence to gain Overdrive."
     },
     "FortSetting": {
         "GamepadAutoRun_Description": "Turns controller auto-run on/off. When on, double clicking the Left Stick will make you automatically run forward without needing to hold the Left Stick forward.",
@@ -276,14 +259,6 @@
     "IslandTagInternal": {
         "recommendations_info": "This island is being recommended to you based on your played games and your favorited Collections, Islands, and Creators. It considers your play history and the play history of other opted-in users to recommend content to you. If you want to, you can opt-out of receiving personalized recommendations in Settings by modifying the \u201cAllow Personalization of Island Recommendations\u201d setting under Account and Privacy->Gameplay Privacy. If you opt-out, you will continue to see recommendations, but they will not be personalized. If you want to, you can favorite Islands, Creators, and Collections in Discover and unfavorite Islands, Creators, and Collections in your Library.",
         "interests_info": "This island is being recommended to you because you asked to see more games like your favorited Collections, Islands, and Creators. It does not consider your play history. If you want to, you can favorite Islands, Creators, and Collections in Discover and unfavorite Islands, Creators, and Collections in your Library."
-    },
-    "CosmeticsGatingBlueprintLibrary": {
-        "SingularRestrictionFormat": "This item can only be used in experiences rated {Rating}.",
-        "SingularRestrictionFormat_OrAbove": "This item can only be used in experiences rated {Rating} or above.",
-        "SingularRestrictionFormat_OrBelow": "This item can only be used in experiences rated {Rating} or below."
-    },
-    "SeasonPassRewardVM": {
-        "Status_FreePlayerReachLevelToGrant": "Reach level 100 to get this after August 26 OR get the Battle Pass to instantly Unlock."
     },
     "Spray_TalonPane3": {
         "6437BCE5492102030E62358F1BC16724": "Debuggin'"
