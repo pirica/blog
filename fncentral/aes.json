@@ -25,6 +25,30 @@
                 "raw": 20329892,
                 "formatted": "19.4 MB"
             }
+        },
+        {
+            "name": "pakchunk1011-WindowsClient.utoc",
+            "key": "0xD2D1A8E46589D4D947287E9E2BD6D12B6C17798F0CE520DBDE9D2071868871A0",
+            "guid": "CCF83523946EA33F3B05F95A5ED66508",
+            "keychain": "CCF83523946EA33F3B05F95A5ED66508:0tGo5GWJ1NlHKH6eK9bRK2wXeY8M5SDb3p0gcYaIcaA=",
+            "fileCount": 863,
+            "hasHighResTextures": true,
+            "size": {
+                "raw": 59554420,
+                "formatted": "56.8 MB"
+            }
+        },
+        {
+            "name": "pakchunk1013-WindowsClient.utoc",
+            "key": "0x0F0A302A2924C793CFDC4657503E7335BAA909F0B2411D76D09A9A7A3F773BF3",
+            "guid": "EDAFCFEBD9FE4B6A2B6E9F064721454A",
+            "keychain": "EDAFCFEBD9FE4B6A2B6E9F064721454A:DwowKikkx5PP3EZXUD5zNbqpCfCyQR120Jqaej93O/M=",
+            "fileCount": 81,
+            "hasHighResTextures": true,
+            "size": {
+                "raw": 2307556,
+                "formatted": "2.2 MB"
+            }
         }
     ],
     "unloaded": [
@@ -119,16 +143,6 @@
             }
         },
         {
-            "name": "pakchunk1011-WindowsClient.utoc",
-            "guid": "CCF83523946EA33F3B05F95A5ED66508",
-            "fileCount": 863,
-            "hasHighResTextures": true,
-            "size": {
-                "raw": 59554420,
-                "formatted": "56.8 MB"
-            }
-        },
-        {
             "name": "pakchunk1012-WindowsClient.utoc",
             "guid": "DBCAA577BD017AC8CAB2FA6E6182E893",
             "fileCount": 115,
@@ -136,16 +150,6 @@
             "size": {
                 "raw": 9251076,
                 "formatted": "8.8 MB"
-            }
-        },
-        {
-            "name": "pakchunk1013-WindowsClient.utoc",
-            "guid": "EDAFCFEBD9FE4B6A2B6E9F064721454A",
-            "fileCount": 81,
-            "hasHighResTextures": true,
-            "size": {
-                "raw": 2307556,
-                "formatted": "2.2 MB"
             }
         }
     ]
