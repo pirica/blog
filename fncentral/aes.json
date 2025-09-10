@@ -1,7 +1,32 @@
 {
     "version": "37.20",
     "mainKey": "0xC574ACAB3BE3AD7FED4A04710B436CD07E7DA037DF77AF5D6F6A23E1CED5EC93",
-    "dynamicKeys": [],
+    "dynamicKeys": [
+        {
+            "name": "pakchunk1004-WindowsClient.utoc",
+            "key": "0x61587751B7848153B74D60FF9E4F570A9C07C44BD87E3B41DCED818C70C638D7",
+            "guid": "6067689CD8164C13E64AC0A14E14DE96",
+            "keychain": "6067689CD8164C13E64AC0A14E14DE96:YVh3UbeEgVO3TWD/nk9XCpwHxEvYfjtB3O2BjHDGONc=",
+            "fileCount": 359,
+            "hasHighResTextures": true,
+            "size": {
+                "raw": 25125332,
+                "formatted": "24.0 MB"
+            }
+        },
+        {
+            "name": "pakchunk1005-WindowsClient.utoc",
+            "key": "0xC8BAE2E902750A14B2C03F89140C7BB8E68D2E85035E98F58642E2F8E07F4AC9",
+            "guid": "66BFA64F40445E39E197E7FA604D8001",
+            "keychain": "66BFA64F40445E39E197E7FA604D8001:yLri6QJ1ChSywD+JFAx7uOaNLoUDXpj1hkLi+OB/Ssk=",
+            "fileCount": 247,
+            "hasHighResTextures": true,
+            "size": {
+                "raw": 20329892,
+                "formatted": "19.4 MB"
+            }
+        }
+    ],
     "unloaded": [
         {
             "name": "pakchunk1000-WindowsClient.utoc",
@@ -41,26 +66,6 @@
             "size": {
                 "raw": 2212,
                 "formatted": "2.2 KB"
-            }
-        },
-        {
-            "name": "pakchunk1004-WindowsClient.utoc",
-            "guid": "6067689CD8164C13E64AC0A14E14DE96",
-            "fileCount": 359,
-            "hasHighResTextures": true,
-            "size": {
-                "raw": 25125332,
-                "formatted": "24.0 MB"
-            }
-        },
-        {
-            "name": "pakchunk1005-WindowsClient.utoc",
-            "guid": "66BFA64F40445E39E197E7FA604D8001",
-            "fileCount": 247,
-            "hasHighResTextures": true,
-            "size": {
-                "raw": 20329892,
-                "formatted": "19.4 MB"
             }
         },
         {
