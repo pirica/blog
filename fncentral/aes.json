@@ -1,18 +1,21 @@
 {
     "version": "39.00",
     "mainKey": "0x8E95784F8ECC94113349AE1678C62EBB50ABBA8C10422E7C5D8399B13DA07AE8",
-    "dynamicKeys": [],
-    "unloaded": [
+    "dynamicKeys": [
         {
             "name": "pakchunk1036-WindowsClient.utoc",
+            "key": "0xC8C500A03D873708FDF1301823776945F1C255CB573855812ADC42CEFB7D3105",
             "guid": "03FF4680C565B8B576241D709F190AEF",
+            "keychain": "03FF4680C565B8B576241D709F190AEF:yMUAoD2HNwj98TAYI3dpRfHCVctXOFWBKtxCzvt9MQU=",
             "fileCount": 45,
             "hasHighResTextures": true,
             "size": {
                 "raw": 1528612,
                 "formatted": "1.5 MB"
             }
-        },
+        }
+    ],
+    "unloaded": [
         {
             "name": "pakchunk1038-WindowsClient.utoc",
             "guid": "075BBAB481CFD9C18CBB3CE53B0FAC4F",
