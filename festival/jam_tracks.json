@@ -36762,7 +36762,64 @@
                     "type": "Pilgrim_Streaming_ID_Prev"
                 }
             ]
+        },
+        {
+            "lastModified": 1775657691.573,
+            "active": 1774458051.574,
+            "language": "en-US",
+            "dict_id": "gabriela",
+            "id": "gabriela",
+            "title": "Gabriela",
+            "artist": "KATSEYE",
+            "album": "",
+            "genres": [],
+            "year": 2025,
+            "duration": 197,
+            "instrument_defaults": {
+                "vocals": "Vocals",
+                "bass": "Bass",
+                "drums": "Drum",
+                "guitar": "Guitar"
+            },
+            "gameplay_tags": [],
+            "join_code": "5196-3425-8016",
+            "item_id": "SparksSong:sid_placeholder_778",
+            "difficulties": {
+                "plastic_bass": 2,
+                "plastic_drums": 2,
+                "plastic_guitar": 2,
+                "vocals": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 2
+            },
+            "scale": "Minor",
+            "album_image": "https://cdn2.unrealengine.com/mhxojxnfrxtddmm1-512x512-a501977f5aa3.jpg",
+            "bpm": 146,
+            "key": "A",
+            "event_id": "68786650-8ddd-4164-a8df-310ccc4b4baf",
+            "isrc": "USUM72503465",
+            "rating": "T",
+            "preview_start": 33.6986,
+            "resources": [
+                {
+                    "url": "https://cdn2.unrealengine.com/wylprafvllmmtw0j-fcd6a9436b9d.dat",
+                    "type": "Sparks_Encrypted_Midi"
+                },
+                {
+                    "url": "https://cdn2.unrealengine.com/gabriela-ffcafc7f9668.lad",
+                    "type": "Sparks_Lip_Sync"
+                },
+                {
+                    "url": "73010030-4b34-4de0-aac0-9ed1d906d9ad",
+                    "type": "Pilgrim_Streaming_ID_Song"
+                },
+                {
+                    "url": "0db8e97a-1143-46da-a297-edda4fb1876b",
+                    "type": "Pilgrim_Streaming_ID_Prev"
+                }
+            ]
         }
     ],
-    "lastModified": 1775591143.441
+    "lastModified": 1775657691.573
 }
