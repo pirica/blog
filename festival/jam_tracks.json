@@ -37731,7 +37731,64 @@
                     "type": "Pilgrim_Streaming_ID_Prev"
                 }
             ]
+        },
+        {
+            "lastModified": 1776336225.777,
+            "active": 1776326400.0,
+            "language": "en-US",
+            "dict_id": "standandfight",
+            "id": "standandfight",
+            "title": "Stand and Fight (Remix)",
+            "artist": "Epic Games",
+            "album": "",
+            "genres": [],
+            "year": 2026,
+            "duration": 154,
+            "instrument_defaults": {
+                "vocals": "Vocals",
+                "bass": "Bass",
+                "drums": "Drum",
+                "guitar": "Guitar"
+            },
+            "gameplay_tags": [],
+            "join_code": "7662-2114-3465",
+            "item_id": "SparksSong:sid_placeholder_745",
+            "difficulties": {
+                "plastic_bass": 4,
+                "plastic_drums": 4,
+                "plastic_guitar": 5,
+                "vocals": 2,
+                "guitar": 5,
+                "drums": 5,
+                "bass": 5
+            },
+            "scale": "Minor",
+            "album_image": "https://cdn2.unrealengine.com/9yu2qyo48olhpmev-512x512-ed189e21217f.jpg",
+            "bpm": 130,
+            "key": "C",
+            "event_id": "4e5b8da5-0891-4a5b-9386-85031fcdca08",
+            "isrc": "",
+            "rating": "E",
+            "preview_start": 41.5384,
+            "resources": [
+                {
+                    "url": "https://cdn2.unrealengine.com/posakbhu3qqqugsp-a17ac2b881b2.dat",
+                    "type": "Sparks_Encrypted_Midi"
+                },
+                {
+                    "url": "https://cdn2.unrealengine.com/standandfight-913c2132512c.lad",
+                    "type": "Sparks_Lip_Sync"
+                },
+                {
+                    "url": "ed7c4bd6-33f7-4241-862a-a5df349a1fb5",
+                    "type": "Pilgrim_Streaming_ID_Song"
+                },
+                {
+                    "url": "89c7dad6-d4a8-45e0-acba-5953e380aebc",
+                    "type": "Pilgrim_Streaming_ID_Prev"
+                }
+            ]
         }
     ],
-    "lastModified": 1776282648.673
+    "lastModified": 1776336225.777
 }
