@@ -37788,7 +37788,64 @@
                     "type": "Pilgrim_Streaming_ID_Prev"
                 }
             ]
+        },
+        {
+            "lastModified": 1776780459.757,
+            "active": 1775588233.338,
+            "language": "en-US",
+            "dict_id": "intooblivion",
+            "id": "intooblivion",
+            "title": "Into Oblivion",
+            "artist": "Lamb of God",
+            "album": "",
+            "genres": [],
+            "year": 2026,
+            "duration": 218,
+            "instrument_defaults": {
+                "vocals": "Vocals",
+                "bass": "Bass",
+                "drums": "Drum",
+                "guitar": "Guitar"
+            },
+            "gameplay_tags": [],
+            "join_code": "6086-5394-5787",
+            "item_id": "SparksSong:sid_placeholder_784",
+            "difficulties": {
+                "plastic_bass": 5,
+                "plastic_drums": 6,
+                "plastic_guitar": 5,
+                "vocals": 1,
+                "guitar": 5,
+                "drums": 6,
+                "bass": 5
+            },
+            "scale": "Minor",
+            "album_image": "https://cdn2.unrealengine.com/fvinrc9vrtplw76n-512x512-2b7cfe03a01c.jpg",
+            "bpm": 135,
+            "key": "C",
+            "event_id": "7a2df81c-b3c5-4495-9b53-c8ad32841e91",
+            "isrc": "USSM12503926",
+            "rating": "E",
+            "preview_start": 63.9999,
+            "resources": [
+                {
+                    "url": "https://cdn2.unrealengine.com/ihatoobop6ghpwqo-6fdd9d96f3d8.dat",
+                    "type": "Sparks_Encrypted_Midi"
+                },
+                {
+                    "url": "https://cdn2.unrealengine.com/intooblivion-f98f82475684.lad",
+                    "type": "Sparks_Lip_Sync"
+                },
+                {
+                    "url": "5a1e6dc0-7aeb-4788-afd5-9fffefc0d0f3",
+                    "type": "Pilgrim_Streaming_ID_Song"
+                },
+                {
+                    "url": "6acba85e-f169-4c4b-82f1-dc07ea7296f4",
+                    "type": "Pilgrim_Streaming_ID_Prev"
+                }
+            ]
         }
     ],
-    "lastModified": 1776711861.86
+    "lastModified": 1776780459.757
 }
