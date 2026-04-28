@@ -26781,8 +26781,8 @@
             ]
         },
         {
-            "lastModified": 1745331234.802,
-            "active": 1744129942.275,
+            "lastModified": 1777381761.665,
+            "active": 1777384800.0,
             "language": "en-US",
             "dict_id": "whatareyouwaitingfor",
             "id": "whatareyouwaitingfor",
@@ -26798,7 +26798,9 @@
                 "drums": "Drum",
                 "guitar": "Guitar"
             },
-            "gameplay_tags": [],
+            "gameplay_tags": [
+                "ForceCMSAlbumArt"
+            ],
             "join_code": "7245-9285-3758",
             "item_id": "SparksSong:sid_placeholder_566",
             "difficulties": {
@@ -26811,7 +26813,7 @@
                 "bass": 3
             },
             "scale": "Major",
-            "album_image": "https://cdn2.unrealengine.com/i4cvttqx0njcf8zg-512x512-a61563fd6a64.jpg",
+            "album_image": "https://cdn2.unrealengine.com/whatareyouwaitingfor-art-512x512-3b44abc59345.jpg",
             "bpm": 166,
             "key": "Db",
             "event_id": "06ff7265-1d16-4043-abef-f762fe48ff72",
@@ -26820,7 +26822,7 @@
             "preview_start": 26.7103,
             "resources": [
                 {
-                    "url": "https://cdn2.unrealengine.com/jhzibhloycwxdcnx-be38becdcff9.dat",
+                    "url": "https://cdn2.unrealengine.com/tjyn5dowwkig937u-fe90d4e27719.dat",
                     "type": "Sparks_Encrypted_Midi"
                 },
                 {
@@ -30948,8 +30950,8 @@
             ]
         },
         {
-            "lastModified": 1757100149.622,
-            "active": 1757030400.0,
+            "lastModified": 1777339681.368,
+            "active": 1777384800.0,
             "language": "en-US",
             "dict_id": "lockedandloaded",
             "id": "lockedandloaded",
@@ -30965,7 +30967,9 @@
                 "drums": "Drum",
                 "guitar": "Keyboard"
             },
-            "gameplay_tags": [],
+            "gameplay_tags": [
+                "ForceCMSAlbumArt"
+            ],
             "join_code": "0196-8107-6307",
             "item_id": "SparksSong:sid_placeholder_656",
             "difficulties": {
@@ -30978,7 +30982,7 @@
                 "bass": 0
             },
             "scale": "Minor",
-            "album_image": "https://cdn2.unrealengine.com/nda4iovdd9tdrvga-512x512-b5e6c0f19d54.jpg",
+            "album_image": "https://cdn2.unrealengine.com/lockedandloaded-art-512x512-0a510f0c55d1.jpg",
             "bpm": 100,
             "key": "G",
             "event_id": "943ee1d0-78e5-4b00-a202-b4dd8c45e84c",
@@ -37845,7 +37849,121 @@
                     "type": "Pilgrim_Streaming_ID_Prev"
                 }
             ]
+        },
+        {
+            "lastModified": 1777386513.312,
+            "active": 1775835561.541,
+            "language": "en-US",
+            "dict_id": "youngblackandrich",
+            "id": "youngblackandrich",
+            "title": "Young Black & Rich",
+            "artist": "Melly Mike",
+            "album": "",
+            "genres": [],
+            "year": 2025,
+            "duration": 158,
+            "instrument_defaults": {
+                "vocals": "Vocals",
+                "bass": "Bass",
+                "drums": "Drum",
+                "guitar": "Keyboard"
+            },
+            "gameplay_tags": [],
+            "join_code": "9651-2097-3528",
+            "item_id": "SparksSong:sid_placeholder_783",
+            "difficulties": {
+                "plastic_bass": 0,
+                "plastic_drums": 2,
+                "plastic_guitar": 0,
+                "vocals": 2,
+                "guitar": 0,
+                "drums": 2,
+                "bass": 0
+            },
+            "scale": "Minor",
+            "album_image": "https://cdn2.unrealengine.com/94evfwux4a2dssvg-512x512-ad6f79c687c6.jpg",
+            "bpm": 130,
+            "key": "Ab",
+            "event_id": "4aece016-a227-444a-a135-fe3666d63520",
+            "isrc": "",
+            "rating": "T",
+            "preview_start": 59.2445,
+            "resources": [
+                {
+                    "url": "https://cdn2.unrealengine.com/3ki9lsxlvhupi5g7-68e43149b38d.dat",
+                    "type": "Sparks_Encrypted_Midi"
+                },
+                {
+                    "url": "https://cdn2.unrealengine.com/youngblackandrich-a3263b737ca5.lad",
+                    "type": "Sparks_Lip_Sync"
+                },
+                {
+                    "url": "dfa3ccae-3d40-4a30-b5e0-da98c572dbaa",
+                    "type": "Pilgrim_Streaming_ID_Song"
+                },
+                {
+                    "url": "71cfc615-e7e4-47af-85d2-1843d7021c5c",
+                    "type": "Pilgrim_Streaming_ID_Prev"
+                }
+            ]
+        },
+        {
+            "lastModified": 1777386571.065,
+            "active": 1774468301.378,
+            "language": "en-US",
+            "dict_id": "neverenough",
+            "id": "neverenough",
+            "title": "NEVER ENOUGH",
+            "artist": "Turnstile",
+            "album": "",
+            "genres": [],
+            "year": 2025,
+            "duration": 291,
+            "instrument_defaults": {
+                "vocals": "Vocals",
+                "bass": "Bass",
+                "drums": "Drum",
+                "guitar": "Guitar"
+            },
+            "gameplay_tags": [],
+            "join_code": "2510-7029-5051",
+            "item_id": "SparksSong:sid_placeholder_786",
+            "difficulties": {
+                "plastic_bass": 3,
+                "plastic_drums": 4,
+                "plastic_guitar": 4,
+                "vocals": 2,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 3
+            },
+            "scale": "Major",
+            "album_image": "https://cdn2.unrealengine.com/ftch1pkfmlvmlx47-3000x3000-7389b0258e40.jpg",
+            "bpm": 154,
+            "key": "D",
+            "event_id": "e56db16f-5788-44ff-88a0-554209b9e419",
+            "isrc": "NLA322500053",
+            "rating": "E",
+            "preview_start": 108.506,
+            "resources": [
+                {
+                    "url": "https://cdn2.unrealengine.com/5qyeerisimacdolj-3c2a1b157bc9.dat",
+                    "type": "Sparks_Encrypted_Midi"
+                },
+                {
+                    "url": "https://cdn2.unrealengine.com/neverenough-29067f674522.lad",
+                    "type": "Sparks_Lip_Sync"
+                },
+                {
+                    "url": "aeb84b9e-14e5-440c-8ee5-a4550a1b8943",
+                    "type": "Pilgrim_Streaming_ID_Song"
+                },
+                {
+                    "url": "f6813021-def8-452f-a5ba-a6c5c8277cf3",
+                    "type": "Pilgrim_Streaming_ID_Prev"
+                }
+            ]
         }
     ],
-    "lastModified": 1777292930.724
+    "lastModified": 1777386571.065
 }
