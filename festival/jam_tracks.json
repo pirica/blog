@@ -37963,7 +37963,64 @@
                     "type": "Pilgrim_Streaming_ID_Prev"
                 }
             ]
+        },
+        {
+            "lastModified": 1777991558.731,
+            "active": 1776190690.435,
+            "language": "en-US",
+            "dict_id": "taxes",
+            "id": "taxes",
+            "title": "Taxes",
+            "artist": "Geese",
+            "album": "",
+            "genres": [],
+            "year": 2025,
+            "duration": 200,
+            "instrument_defaults": {
+                "vocals": "Vocals",
+                "bass": "Bass",
+                "drums": "Drum",
+                "guitar": "Guitar"
+            },
+            "gameplay_tags": [],
+            "join_code": "0961-3931-9198",
+            "item_id": "SparksSong:sid_placeholder_787",
+            "difficulties": {
+                "plastic_bass": 4,
+                "plastic_drums": 5,
+                "plastic_guitar": 4,
+                "vocals": 1,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 3
+            },
+            "scale": "Major",
+            "album_image": "https://cdn2.unrealengine.com/r7p25mchjuvnj6ai-512x512-5337c32fab3d.jpg",
+            "bpm": 94,
+            "key": "Gb",
+            "event_id": "051ec62f-243d-4c6d-8723-dfcd1b3bce85",
+            "isrc": "USBQU2500085",
+            "rating": "T",
+            "preview_start": 74.0526,
+            "resources": [
+                {
+                    "url": "https://cdn2.unrealengine.com/hkj3zp31rllv5qcv-66c5e3512bc0.dat",
+                    "type": "Sparks_Encrypted_Midi"
+                },
+                {
+                    "url": "https://cdn2.unrealengine.com/taxes-6f6d7b6e72a1.lad",
+                    "type": "Sparks_Lip_Sync"
+                },
+                {
+                    "url": "6031caca-8ace-4414-9696-72ee23b3f97e",
+                    "type": "Pilgrim_Streaming_ID_Song"
+                },
+                {
+                    "url": "e347d1ce-5306-44e3-b91a-0a2e03a6a6c8",
+                    "type": "Pilgrim_Streaming_ID_Prev"
+                }
+            ]
         }
     ],
-    "lastModified": 1777985371.763
+    "lastModified": 1777991558.731
 }
