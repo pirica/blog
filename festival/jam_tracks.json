@@ -38020,7 +38020,64 @@
                     "type": "Pilgrim_Streaming_ID_Prev"
                 }
             ]
+        },
+        {
+            "lastModified": 1778596001.012,
+            "active": 1776797089.828,
+            "language": "en-US",
+            "dict_id": "imsoatl",
+            "id": "imsoatl",
+            "title": "I'm So ATL",
+            "artist": "Bankroll Ni",
+            "album": "",
+            "genres": [],
+            "year": 2025,
+            "duration": 130,
+            "instrument_defaults": {
+                "vocals": "Vocals",
+                "bass": "Bass",
+                "drums": "Drum",
+                "guitar": "Keyboard"
+            },
+            "gameplay_tags": [],
+            "join_code": "1348-2513-8424",
+            "item_id": "SparksSong:sid_placeholder_789",
+            "difficulties": {
+                "plastic_bass": 0,
+                "plastic_drums": 3,
+                "plastic_guitar": 0,
+                "vocals": 4,
+                "guitar": 0,
+                "drums": 3,
+                "bass": 0
+            },
+            "scale": "Major",
+            "album_image": "https://cdn2.unrealengine.com/nxyxjv9n2hqwx8iz-512x512-92462ecadff0.jpg",
+            "bpm": 154,
+            "key": "Db",
+            "event_id": "9be46537-2f9a-47c3-9e7c-0cbfa19c9fcc",
+            "isrc": "USQX92503320",
+            "rating": "T",
+            "preview_start": 52.2077,
+            "resources": [
+                {
+                    "url": "https://cdn2.unrealengine.com/elmtcf2iryajgpyc-ed34a5e1bd5f.dat",
+                    "type": "Sparks_Encrypted_Midi"
+                },
+                {
+                    "url": "https://cdn2.unrealengine.com/imsoatl-ee840fdaf1c6.lad",
+                    "type": "Sparks_Lip_Sync"
+                },
+                {
+                    "url": "ff21a3e6-4b46-4c71-8774-ca031abe2f6b",
+                    "type": "Pilgrim_Streaming_ID_Song"
+                },
+                {
+                    "url": "a3694d15-8156-439b-813e-e03af209ac3c",
+                    "type": "Pilgrim_Streaming_ID_Prev"
+                }
+            ]
         }
     ],
-    "lastModified": 1777991558.731
+    "lastModified": 1778596001.012
 }
